@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "aurora",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../Descargas/Ministeria_Mujer/assets"
+		},
+		{
+			"name": "lib",
+			"path": "../../Descargas/Ministeria_Mujer/lib"
+		}
+	],
+	"settings": {}
+}

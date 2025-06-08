@@ -1,0 +1,404 @@
+[{
+  "_id": {
+    "$oid": "683a6482900642be62aaf37b"
+  },
+  "Nro": {
+    "": 1
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Callao",
+  "NOMBRE DEL SERVICIO": "Callao",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Poder Judicial Callao - Corte Superior de Justicia del Callao",
+  "ESTADO DEL LOCAL QUE OCUPA EL CEM": "PROPIO DE LA CONTRAPARTE",
+  "¿QUIÉN ASUME EL PAGO DE LUZ?": "CONTRAPARTE",
+  "¿ QUIÉN ASUME EL PAGO DE AGUA?": "CONTRAPARTE",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "NO"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "SI"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 8,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "SI",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf37c"
+  },
+  "Nro": {
+    "": 2
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Ventanilla",
+  "NOMBRE DEL SERVICIO": "Pachacutec",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Organización Pobladores de la Ciudad Modelo Autogestionario Pachacutec - CIMAP",
+  "ESTADO DEL LOCAL QUE OCUPA EL CEM": "PROPIO DE LA CONTRAPARTE",
+  "¿QUIÉN ASUME EL PAGO DE LUZ?": "PN AURORA",
+  "¿ QUIÉN ASUME EL PAGO DE AGUA?": "PN AURORA",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "SI"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 1,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "NO",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "NO",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "NO"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf37d"
+  },
+  "Nro": {
+    "": 3
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Ventanilla",
+  "NOMBRE DEL SERVICIO": "Ventanilla",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Municipalidad Distrital de Ventanilla",
+  "ESTADO DEL LOCAL QUE OCUPA EL CEM": "PROPIO DE LA CONTRAPARTE",
+  "¿QUIÉN ASUME EL PAGO DE LUZ?": "CONTRAPARTE",
+  "¿ QUIÉN ASUME EL PAGO DE AGUA?": "CONTRAPARTE",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 0
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf37e"
+  },
+  "Nro": {
+    "": 4
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Bellavista",
+  "NOMBRE DEL SERVICIO": "Bellavista",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Gobierno Regional del Callao",
+  "ESTADO DEL LOCAL QUE OCUPA EL CEM": "PROPIO DE LA CONTRAPARTE",
+  "¿QUIÉN ASUME EL PAGO DE LUZ?": "CONTRAPARTE",
+  "¿ QUIÉN ASUME EL PAGO DE AGUA?": "CONTRAPARTE",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "SI"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 7,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "NO",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf37f"
+  },
+  "Nro": {
+    "": 5
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "CALLAO",
+  "DISTRITO": "CALLAO",
+  "NOMBRE DEL SERVICIO": "COMISARÍA JUAN INGUNZA VALDIVIA",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Ministerio del Interior con intervención de la PNP",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "SI"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 6,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "NO",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "SI",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "NO",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf380"
+  },
+  "Nro": {
+    "": 6
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "CALLAO",
+  "DISTRITO": "CALLAO",
+  "NOMBRE DEL SERVICIO": "COMISARÍA PLAYA RIMAC",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Ministerio del Interior con intervención de la PNP",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "NO",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "NO"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 7,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "SI",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "NO",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf381"
+  },
+  "Nro": {
+    "": 7
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "CALLAO",
+  "DISTRITO": "CALLAO",
+  "NOMBRE DEL SERVICIO": "COMISARÍA RAMON CASTILLA",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Ministerio del Interior con intervención de la PNP",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "NO"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "CANTIDAD SI": 7,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "SI",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "NO",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf382"
+  },
+  "Nro": {
+    "": 8
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "CALLAO",
+  "DISTRITO": "CARMEN DE LA LEGUA REYNOSO",
+  "NOMBRE DEL SERVICIO": "COMISARÍA CARMEN DE LA LEGUA REYNOSO",
+  "SERVICIO": "CEM",
+  "CONTRAPARTE": "Ministerio del Interior con intervención de la PNP",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "SI",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "NO"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 7,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "SI",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "NO",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf383"
+  },
+  "Nro": {
+    "": 9
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Carmen de la Legua Reynoso",
+  "NOMBRE DEL SERVICIO": "CAI Carmen de la Legua Reynoso",
+  "SERVICIO": "CAI",
+  "CONTRAPARTE": "Municipalidad Distrital Carmen de la Legua Reynoso",
+  "ESTADO DEL LOCAL QUE OCUPA EL CEM": "PROPIO DE LA CONTRAPARTE",
+  "¿QUIÉN ASUME EL PAGO DE LUZ?": "CONTRAPARTE",
+  "¿ QUIÉN ASUME EL PAGO DE AGUA?": "CONTRAPARTE",
+  "CANTIDAD SI": 0
+},
+{
+  "_id": {
+    "$oid": "683a6482900642be62aaf384"
+  },
+  "Nro": {
+    "": 10
+  },
+  "REGION": "CALLAO",
+  "PROVINCIA": "Prov. Constitucional Callao",
+  "DISTRITO": "Callao",
+  "NOMBRE DEL SERVICIO": "CALLAO",
+  "SERVICIO": "HRT",
+  "CONTRAPARTE": "GOBIERNO REGIONAL DEL CALLAO",
+  "ESTADO DEL LOCAL QUE OCUPA EL CEM": "PROPIO DE LA CONTRAPARTE",
+  "¿QUIÉN ASUME EL PAGO DE LUZ?": "CONTRAPARTE",
+  "¿ QUIÉN ASUME EL PAGO DE AGUA?": "CONTRAPARTE",
+  "Proporciona los bienes muebles necesarios como mobiliario del servicio": "SI",
+  "Gestiona la instalación y cubre los gastos mensuales de una línea telefónica e internet para uso exclusivo del servicio": {
+    "": "SI"
+  },
+  "Asume el pago de las retribuciones económicas de los profesionales del equipo del servicio": "NO",
+  "Proporciona los útIles de escritorio necesarios para su funcionamiento": {
+    "": "SI"
+  },
+  "Cubre el pago que se ocasione del envío, recepción y reparación de los equipos del servicio": {
+    "\n": "SI"
+  },
+  "Cubre el gasto que origine el envío y/o recepción de la correspondencia ": "SI",
+  "Realiza coordinaciones con la contraparte para sufragar los gastos que origine el acondicionamiento, reparación y/o remodelación del local, que será solventado por EL PROGRAMA": {
+    "\n": "SI"
+  },
+  "Solventa el fondo para pagos en efectivo, a fin de garantizar la operatividad": {
+    "": "SI"
+  },
+  "CANTIDAD SI": 7,
+  "Brinda la Infraestructura necesaria para el funcionamiento del servicio\n": "SI",
+  "Cuenta con instalaciones adecuadas que permiten el acceso a la atención a personas con discapacidad": "NO",
+  "Brinda las medidas de seguridad necesarias para el cuidado y conservación de los bienes muebles del servicio": {
+    "": "SI"
+  },
+  "Brindar el servicio vigilancia en las instalaciones del servicio": "SI",
+  "Brindar el servicio de limpieza a las instalaciones del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de luz del servicio": "SI",
+  "Cubre los gastos de los serviclos básicos de agua del servicio": "SI",
+  "Vigila el adecuado funcionamiento y cumplimiento del horario de atención al público del servicio, a través de la Gerencia de Desarrollo social o la que haga sus veces": {
+    "": "SI"
+  }
+}]

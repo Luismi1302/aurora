@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2f4"
+  },
+  "Nº": 1,
+  "REGIÓN": "Arequipa",
+  "PROVINCIA ": "Arequipa",
+  "DISTRITO": "Arequipa",
+  "CAI": "AREQUIPA",
+  "CONTRAPARTE": "GOBIERNO REGIONAL DE AREQUIPA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "6/07/2023",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "NO",
+  "VENCIMIENTO DEL CONVENIO": "06/07/2025",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "06/07/2027",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DEL GOBIERNO REGIONAL",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento."
+  }
+},
+{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2f5"
+  },
+  "Nº": 2,
+  "REGIÓN": "Ayacucho",
+  "PROVINCIA ": "Huamanga",
+  "DISTRITO": "Huamanga",
+  "CAI": "HUAMANGA",
+  "CONTRAPARTE": "MUNICIPALIDAD PROVINCIAL DE HUAMANGA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "7/12/2018",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "21/06/2023",
+  "VENCIMIENTO DEL CONVENIO": "21/08/2025",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "21/08/2027",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento."
+  }
+},
+{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2f6"
+  },
+  "Nº": 3,
+  "REGIÓN": "Callao",
+  "PROVINCIA ": "Callao",
+  "DISTRITO": "Callao",
+  "CAI": "CALLAO",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE CARMEN DE LA LEGUA REYNOSO",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "15/01/2020",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "EN TRÁMITE",
+  "VENCIMIENTO DEL CONVENIO": "15/01/2022",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "20/01/2024",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento.\nCONVENIO EN TRÁMITE suscrito por la Sociedad de la Beneficencia."
+  }
+},
+{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2f7"
+  },
+  "Nº": 4,
+  "REGIÓN": "Cusco",
+  "PROVINCIA ": "Cusco",
+  "DISTRITO": "Saylla",
+  "CAI": "SAYLLA",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE SAYLLA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "5/09/2019",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "05/04/2024",
+  "VENCIMIENTO DEL CONVENIO": "05/04/2026",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "05/04/2028",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento."
+  }
+},
+{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2f8"
+  },
+  "Nº": 5,
+  "REGIÓN": "Lima",
+  "PROVINCIA ": "Lima",
+  "DISTRITO": "Breña",
+  "CAI": "BREÑA",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE BREÑA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "28/08/2018",
+  "PRÓRROGA": "AUTOMATICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "20/12/2022",
+  "VENCIMIENTO DEL CONVENIO": "20/12/2024",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "20/12/2026",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento."
+  }
+},
+{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2f9"
+  },
+  "Nº": 6,
+  "REGIÓN": "Lima",
+  "PROVINCIA ": "Lima",
+  "DISTRITO": "El Agustino",
+  "CAI": "LIMA",
+  "CONTRAPARTE": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "30/12/2021",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "NO",
+  "VENCIMIENTO DEL CONVENIO": "30/12/2023",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "30/12/2025",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento."
+  }
+},
+{
+  "_id": {
+    "$oid": "683a59a0900642be62aaf2fa"
+  },
+  "Nº": 7,
+  "REGIÓN": "Madre de Dios",
+  "PROVINCIA ": "Tambopata",
+  "DISTRITO": "Tambopata",
+  "CAI": "MADRE DE DIOS",
+  "CONTRAPARTE": "GOBIERNO REGIONAL DE MADRE DE DIOS",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN CAI)": "09/03/2024",
+  "PRÓRROGA": "AUTOMÁTICA POR 03 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "NO",
+  "VENCIMIENTO DEL CONVENIO": "09/03/2027",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "09/03/2030",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL ASIGNADO POR EL GOBIERNO REGIONAL DE MADRE DE DIOS",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento."
+  }
+}]

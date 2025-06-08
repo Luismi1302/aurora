@@ -1,0 +1,861 @@
+[{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954685"
+  },
+  "Nro": {
+    "": 1
+  },
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Utcubamba",
+  "DISTRITO": "Bagua Grande",
+  "CEM": "Utcubamba ",
+  "CONTRAPARTE": "Municipalidad Provincial de Utcubamba",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954686"
+  },
+  "Nro": {
+    "": 2
+  },
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Abancay",
+  "DISTRITO": "Abancay",
+  "CEM": "Abancay",
+  "CONTRAPARTE": "Municipalidad Provincial de Abancay",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954687"
+  },
+  "Nro": {
+    "": 3
+  },
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Andahuaylas",
+  "DISTRITO": "Andahuaylas",
+  "CEM": "Andahuaylas",
+  "CONTRAPARTE": "Municipalidad Provincial de Andahuaylas",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954688"
+  },
+  "Nro": {
+    "": 4
+  },
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Chincheros",
+  "DISTRITO": "Chincheros",
+  "CEM": "Chincheros",
+  "CONTRAPARTE": "Municipalidad Provincial de Chincheros",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954689"
+  },
+  "Nro": {
+    "": 5
+  },
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Arequipa",
+  "DISTRITO": "Arequipa",
+  "CEM": "Arequipa ",
+  "CONTRAPARTE": "AURORA ALQUILADO",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Deberia ser con la Municipalidad Provincial de Arequipa"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995468a"
+  },
+  "Nro": {
+    "": 6
+  },
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Arequipa",
+  "DISTRITO": "Miraflores",
+  "CEM": "Miraflores",
+  "CONTRAPARTE": "Municipalidad Distrital de Miraflores",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995468b"
+  },
+  "Nro": {
+    "": 7
+  },
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Camaná",
+  "DISTRITO": "Camaná",
+  "CEM": "Camaná           ",
+  "CONTRAPARTE": "Municipalidad Provincial de Camaná",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995468c"
+  },
+  "Nro": {
+    "": 8
+  },
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Cangallo",
+  "DISTRITO": "Cangallo",
+  "CEM": "Cangallo",
+  "CONTRAPARTE": "Municipalidad Provincial de Cangallo",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995468d"
+  },
+  "Nro": {
+    "": 9
+  },
+  "PROVINCIA": "Huanta",
+  "DISTRITO": "Huanta",
+  "CEM": "Huanta ",
+  "CONTRAPARTE": "Municipalidad Provincial de Huanta",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995468e"
+  },
+  "Nro": {
+    "": 10
+  },
+  "PROVINCIA": "La Mar",
+  "DISTRITO": "San Miguel",
+  "CEM": "La Mar ",
+  "CONTRAPARTE": "Municipalidad Provincial de La Mar",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995468f"
+  },
+  "Nro": {
+    "": 11
+  },
+  "PROVINCIA": "Fajardo",
+  "DISTRITO": "Huancapi",
+  "CEM": "Victor Fajardo",
+  "CONTRAPARTE": "Municipalidad Provincial de Victor Fajardo",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954690"
+  },
+  "Nro": {
+    "": 12
+  },
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Cajamarca",
+  "DISTRITO": "Cajamarca",
+  "CEM": "Cajamarca",
+  "CONTRAPARTE": "Municipalidad Provincial de Cajamarca / Sociedad de Beneficencia de Cajamarca",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954691"
+  },
+  "Nro": {
+    "": 13
+  },
+  "PROVINCIA": "Jaen",
+  "DISTRITO": "Jaen ",
+  "CEM": "Jaen",
+  "CONTRAPARTE": "Municipalidad Provincial de Jaen",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954692"
+  },
+  "Nro": {
+    "": 14
+  },
+  "PROVINCIA": "Chota",
+  "DISTRITO": "Chota",
+  "CEM": "Chota",
+  "CONTRAPARTE": "FONCODES",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Deberia ser con la Municipalidad Provincial de Chota"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954693"
+  },
+  "Nro": {
+    "": 15
+  },
+  "PROVINCIA": "San Ignacio ",
+  "DISTRITO": "San Ignacio",
+  "CEM": "San Ignacio ",
+  "CONTRAPARTE": "Municipalidad Provincial de San Ignacio ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954694"
+  },
+  "Nro": {
+    "": 16
+  },
+  "REGION": "CUSCO",
+  "PROVINCIA": "Canchis",
+  "DISTRITO": "Canchis ",
+  "CEM": "Sicuani",
+  "CONTRAPARTE": "Municipalidad  Provincial de Canchis",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954695"
+  },
+  "Nro": {
+    "": 17
+  },
+  "PROVINCIA": "Cusco",
+  "DISTRITO": "Cusco",
+  "CEM": "Cusco",
+  "CONTRAPARTE": "FONCODES",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Deberia ser con la Municipalidad Provincial de Cusco"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954696"
+  },
+  "Nro": {
+    "": 18
+  },
+  "PROVINCIA": "Chumbivilcas",
+  "DISTRITO": "Santo Tomas",
+  "CEM": "Chumbivilcas",
+  "CONTRAPARTE": "AURORA ALQUILADO",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954697"
+  },
+  "Nro": {
+    "": 19
+  },
+  "PROVINCIA": "La Convencion",
+  "DISTRITO": "Kimbiri",
+  "CEM": "Kimbiri",
+  "CONTRAPARTE": "Municipalidad Distrital de Kimbiri",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954698"
+  },
+  "Nro": {
+    "": 20
+  },
+  "DISTRITO": "Pichari",
+  "CEM": "Pichari",
+  "CONTRAPARTE": "Municipalidad Distrital de Pichari",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d9954699"
+  },
+  "Nro": {
+    "": 21
+  },
+  "DISTRITO": "Santa Ana",
+  "CEM": "Quillabamba",
+  "CONTRAPARTE": "Municipalidad  Provincial de Quillabamba",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995469a"
+  },
+  "Nro": {
+    "": 22
+  },
+  "REGION": "HUANCAVELICA",
+  "PROVINCIA": "Huancavelica",
+  "DISTRITO": "Huancavelica",
+  "CEM": "Huancavelica",
+  "CONTRAPARTE": "Municipalidad Provincial de Huancavelica",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995469b"
+  },
+  "Nro": {
+    "": 23
+  },
+  "PROVINCIA": "Acobamba",
+  "DISTRITO": "Acobamba",
+  "CEM": "Acobamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Acobamba",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995469c"
+  },
+  "Nro": {
+    "": 24
+  },
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Huánuco",
+  "DISTRITO": "Amarilis",
+  "CEM": "Huánuco",
+  "CONTRAPARTE": "Municipalidad Distrital de Amarilis ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995469d"
+  },
+  "Nro": {
+    "": 25
+  },
+  "PROVINCIA": "Ambo",
+  "DISTRITO": "Ambo",
+  "CEM": "Ambo",
+  "CONTRAPARTE": "Municipalidad Provincial de Ambo ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995469e"
+  },
+  "Nro": {
+    "": 26
+  },
+  "PROVINCIA": "Leoncio Prado",
+  "DISTRITO": "Tingo María ",
+  "CEM": "Tingo María ",
+  "CONTRAPARTE": "Municipalidad Provincial de Leoncio Prado",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d995469f"
+  },
+  "Nro": {
+    "": 27
+  },
+  "REGION": "JUNIN",
+  "PROVINCIA": "Concepcion",
+  "DISTRITO": "Concepcion",
+  "CEM": "Concepcion",
+  "CONTRAPARTE": "Municipalidad Provincial de Concepción ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a0"
+  },
+  "Nro": {
+    "": 28
+  },
+  "PROVINCIA": "Huancayo",
+  "DISTRITO": "Huancayo",
+  "CEM": "Huancayo",
+  "CONTRAPARTE": "Sociedad de Beneficiencia de Huancayo ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a1"
+  },
+  "Nro": {
+    "": 29
+  },
+  "DISTRITO": "Chilca",
+  "CEM": "Chilca",
+  "CONTRAPARTE": "Municipalidad Distrital de Chilca",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a2"
+  },
+  "Nro": {
+    "": 30
+  },
+  "PROVINCIA": "Jauja",
+  "DISTRITO": "Jauja",
+  "CEM": "Jauja",
+  "CONTRAPARTE": "Municipalidad Distrital de Jauja",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a3"
+  },
+  "Nro": {
+    "": 31
+  },
+  "PROVINCIA": "Satipo",
+  "DISTRITO": "Satipo",
+  "CEM": "Satipo",
+  "CONTRAPARTE": "Municipalidad Provincial de Satipo ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a4"
+  },
+  "Nro": {
+    "": 32
+  },
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Trujillo",
+  "DISTRITO": "Trujillo",
+  "CEM": "Trujillo ",
+  "CONTRAPARTE": "Municipalidad Provincial de Trujillo",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a5"
+  },
+  "Nro": {
+    "": 33
+  },
+  "DISTRITO": "La Esperanza",
+  "CEM": "La Esperanza",
+  "CONTRAPARTE": "Municipalidad Distrital de La Esperanza",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a6"
+  },
+  "Nro": {
+    "": 34
+  },
+  "PROVINCIA": "Pacasmayo",
+  "DISTRITO": "San Pedro De Lloc",
+  "CEM": "Pacasmayo",
+  "CONTRAPARTE": "Municipalidad Distrital de Apata",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a7"
+  },
+  "Nro": {
+    "": 35
+  },
+  "PROVINCIA": "Sánchez Carrión",
+  "DISTRITO": "Huamachuco",
+  "CEM": "Huamachuco",
+  "CONTRAPARTE": "Municipalidad Provincial de Sanchez Carrion/ Municipalidad Distrital de Chugay",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a8"
+  },
+  "Nro": {
+    "": 36
+  },
+  "REGION": "LAMBAYEQUE",
+  "PROVINCIA": "Ferreñafe",
+  "DISTRITO": "Ferreñafe",
+  "CEM": "Ferreñafe",
+  "CONTRAPARTE": "Municipalidad Provincial de Ferreñafe",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546a9"
+  },
+  "Nro": {
+    "": 37
+  },
+  "PROVINCIA": "Lambayeque",
+  "DISTRITO": "Lambayeque",
+  "CEM": "Lambayeque",
+  "CONTRAPARTE": "Municipalidad Provincial de Lambayeque",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546aa"
+  },
+  "Nro": {
+    "": 38
+  },
+  "REGION": "LORETO",
+  "PROVINCIA": "Maynas",
+  "DISTRITO": "Punchana",
+  "CEM": "Iquitos",
+  "CONTRAPARTE": "Municipalidad Provincial Maynas",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546ab"
+  },
+  "Nro": {
+    "": 39
+  },
+  "PROVINCIA": "Loreto",
+  "DISTRITO": "Loreto",
+  "CEM": "Nauta",
+  "CONTRAPARTE": "Municipalidad Provincial de Loreto - Nauta",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546ac"
+  },
+  "Nro": {
+    "": 40
+  },
+  "REGION": "MADRE DE DIOS",
+  "PROVINCIA": "Tambopata",
+  "DISTRITO": "Tambopata",
+  "CEM": "Madre de Dios ",
+  "CONTRAPARTE": "CESION TEMPORAL MIMP",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Deberia ser con la Municipalidad Provincial de Tambopata"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546ad"
+  },
+  "Nro": {
+    "": 41
+  },
+  "REGION": "PASCO",
+  "PROVINCIA": "Pasco",
+  "DISTRITO": "Yanacancha",
+  "CEM": "Pasco",
+  "CONTRAPARTE": "Municipalidad Provincial de Pasco",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546ae"
+  },
+  "Nro": {
+    "": 42
+  },
+  "REGION": "PIURA",
+  "PROVINCIA": "Chulucanas",
+  "DISTRITO": "Morropón",
+  "CEM": "Chulucanas",
+  "CONTRAPARTE": "Municipalidad Provincial de Chulucanas",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546af"
+  },
+  "Nro": {
+    "": 43
+  },
+  "PROVINCIA": "Piura",
+  "DISTRITO": "Castilla",
+  "CEM": "Piura",
+  "CONTRAPARTE": "PNCVFS",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b0"
+  },
+  "Nro": {
+    "": 44
+  },
+  "PROVINCIA": "Paita",
+  "DISTRITO": "Paita",
+  "CEM": "Paita",
+  "CONTRAPARTE": "Municipalidad Provincial Paita",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b1"
+  },
+  "Nro": {
+    "": 45
+  },
+  "PROVINCIA": "Sullana",
+  "DISTRITO": "Sullana",
+  "CEM": "Sullana",
+  "CONTRAPARTE": "Municipalidad Provincial Sullana",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b2"
+  },
+  "Nro": {
+    "": 46
+  },
+  "REGION": "PUNO",
+  "PROVINCIA": "Collao",
+  "DISTRITO": "Ilave",
+  "CEM": "Ilave",
+  "CONTRAPARTE": "Municipalidad Provincial  El Collao ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b3"
+  },
+  "Nro": {
+    "": 47
+  },
+  "PROVINCIA": "San Roman",
+  "DISTRITO": "Juliaca",
+  "CEM": "Juliaca",
+  "CONTRAPARTE": "Municipalidad Provincial de Juliaca",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b4"
+  },
+  "Nro": {
+    "": 48
+  },
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Moyobamba",
+  "DISTRITO": "Moyobamba",
+  "CEM": "Moyobamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Moyobamba",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b5"
+  },
+  "Nro": {
+    "": 49
+  },
+  "PROVINCIA": "Rioja",
+  "DISTRITO": "Rioja",
+  "CEM": "Rioja",
+  "CONTRAPARTE": "Municipalidad Provincial de Rioja",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b6"
+  },
+  "Nro": {
+    "": 50
+  },
+  "PROVINCIA": "San Martin",
+  "DISTRITO": "Tarapoto",
+  "CEM": "Tarapoto",
+  "CONTRAPARTE": "Municipalidad Provincial de San Martin",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b7"
+  },
+  "Nro": {
+    "": 51
+  },
+  "REGION": "TUMBES",
+  "PROVINCIA": "Tumbes",
+  "DISTRITO": "Tumbes",
+  "CEM": "Tumbes",
+  "CONTRAPARTE": "Gobierno Regional de Tumbes ",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b8"
+  },
+  "Nro": {
+    "": 52
+  },
+  "REGION": "UCAYALI",
+  "PROVINCIA": "Coronel Portillo",
+  "DISTRITO": "Callería",
+  "CEM": "Pucallpa",
+  "CONTRAPARTE": "Municipalidad Provincial Coronel Portillo",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546b9"
+  },
+  "Nro": {
+    "": 53
+  },
+  "PROVINCIA": "Padre Abad",
+  "DISTRITO": "Padre Abad",
+  "CEM": "Padre Abad",
+  "CONTRAPARTE": "Municipalidad Provincial Padre Abad",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546ba"
+  },
+  "Nro": {
+    "": 54
+  },
+  "REGION": "LIMA PROVINCIAS",
+  "PROVINCIA": "Huaral",
+  "DISTRITO": "Huaral",
+  "CEM": "Huaral",
+  "CONTRAPARTE": "Municipalidad Provincial de Huaral",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546bb"
+  },
+  "Nro": {
+    "": 55
+  },
+  "PROVINCIA": "Huaura",
+  "DISTRITO": "Huacho",
+  "CEM": "Huacho",
+  "CONTRAPARTE": "Municipalidad Provincial de Huaura",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546bc"
+  },
+  "Nro": {
+    "": 56
+  },
+  "PROVINCIA": "Huarochiri",
+  "DISTRITO": "Huarochiri",
+  "CEM": "Huarochiri",
+  "CONTRAPARTE": "Municipalidad Provincial de Huarochiri",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546bd"
+  },
+  "Nro": {
+    "": 57
+  },
+  "REGION": "CALLAO\n\n",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Callao",
+  "CEM": "Callao",
+  "CONTRAPARTE": "Poder Judicial Callao",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546be"
+  },
+  "Nro": {
+    "": 58
+  },
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Ventanilla",
+  "CEM": "Pachacutec",
+  "CONTRAPARTE": "Municipalidad Distrital de Ventanilla",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546bf"
+  },
+  "Nro": {
+    "": 59
+  },
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Ventanilla",
+  "CEM": "Ventanilla",
+  "CONTRAPARTE": "Municipalidad Distrital de Ventanilla",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+},
+{
+  "_id": {
+    "$oid": "683a9fa0100ba902d99546c0"
+  },
+  "Nro": {
+    "": 60
+  },
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Callao",
+  "CEM": "Bellavista",
+  "CONTRAPARTE": "Gobierno Regional del Callao",
+  "GESTION DESCENT": "transf",
+  "OBSERVACION": "Sin Observaciones"
+}]

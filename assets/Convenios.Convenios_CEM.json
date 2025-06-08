@@ -1,0 +1,4737 @@
+[{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1be"
+  },
+  "Nro": 1,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Chachapoyas",
+  "DISTRITO": "Chachapoyas",
+  "CEM": "Chachapoyas ",
+  "CONTRAPARTE": "Municipalidad Provincial de Chachapoyas",
+  "CREACION": 39722,
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "En UPPM",
+  "OBSERVACIONES Y VIGENCIA": 45621,
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "25.11.2020",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL DE LA COMUNIDAD, CEDIDO A LA MUNICIPALIDAD PARA LA INSTALACIÒN DEL CEM"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1bf"
+  },
+  "Nro": 2,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Bagua",
+  "DISTRITO": "Bagua",
+  "CEM": "Bagua",
+  "CONTRAPARTE": "Municipalidad Provincial de Bagua ",
+  "CREACION": "14/04/2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Con informe de GDDSS de la Muni",
+  "OBSERVACIONES Y VIGENCIA": "27.04.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "27.04.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c0"
+  },
+  "Nro": 3,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Condorcanqui",
+  "DISTRITO": "Santa Maria De Nieva",
+  "CEM": "Condorcanqui",
+  "CONTRAPARTE": "Municipalidad Provincial de Condorcanqui",
+  "CREACION": "1/10/2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "12.08.2027",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "12.08.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c1"
+  },
+  "Nro": 4,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Utcubamba",
+  "DISTRITO": "Bagua Grande",
+  "CEM": "Utcubamba ",
+  "CONTRAPARTE": "Municipalidad Provincial de Utcubamba",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Con informe de GDDSS de la Muni",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "30.03.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "ALQUILER CONCLUYO EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c2"
+  },
+  "Nro": 5,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Rodriguez de Mendoza",
+  "DISTRITO": "San Nicolás",
+  "CEM": "Rodriguez de Mendoza",
+  "CONTRAPARTE": "Municipalidad Provincial Rodriguez de Mendoza",
+  "CREACION": "26/06/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "28.06.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "28.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c3"
+  },
+  "Nro": 6,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Luya",
+  "DISTRITO": "Luya",
+  "CEM": "Luya",
+  "CONTRAPARTE": "Municipalidad Distrital de Luya",
+  "CREACION": "6/04/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "15.09.2024",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "15.09.2022",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "CEDIDO A LA MUNICIPALIDAD POR EL CENTRO DE SALUD"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c4"
+  },
+  "Nro": 7,
+  "REGION": "AMAZONAS",
+  "PROVINCIA": "Bongará",
+  "DISTRITO": "Bongara",
+  "CEM": "Bongara",
+  "CONTRAPARTE": "Municipalidad Provincial de Bongará",
+  "CREACION": "20/07/2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "26.09.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "26.09.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "ASUMEN EL PAGO MENSUAL (700 SOLES) - CONTRATO VENCIO EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c5"
+  },
+  "Nro": 8,
+  "REGION": "Ancash",
+  "PROVINCIA": "El Santa",
+  "DISTRITO": "Chimbote",
+  "CEM": "Chimbote",
+  "CONTRAPARTE": "Municipalidad Provincial Del Santa",
+  "CREACION": "22/09/2006",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "25.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "25.03.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c6"
+  },
+  "Nro": 9,
+  "REGION": "Ancash",
+  "PROVINCIA": "El Santa",
+  "DISTRITO": "Nuevo Chimbote",
+  "CEM": "Nuevo Chimbote ",
+  "CONTRAPARTE": "Municipalidad Distrital Nuevo Chimbote",
+  "CREACION": "14/04/2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "12.08.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "12.08.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "DESDE EL 2011 USANDO EL MISMO LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c7"
+  },
+  "Nro": 10,
+  "REGION": "Ancash",
+  "PROVINCIA": "Huaraz",
+  "DISTRITO": "Huaraz",
+  "CEM": "Huaraz ",
+  "CONTRAPARTE": "Gobireno Regional de Ancash",
+  "CREACION": "1/03/2003",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.11.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.11.2023",
+  "LOCAL ": "PROPIO DEL GOB. REGIONAL",
+  "OBSERVACIONES ALQUILADOS": "LOCAL DEL GOB REGIONAL DE ANCASH, INTERIOR DEL MINISTERIO DE TRABAJO Y PROMOCIÒN DEL EMPLEO DE HUARAZ DESDE DIC 2019."
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c8"
+  },
+  "Nro": 11,
+  "REGION": "Ancash",
+  "PROVINCIA": "Huarmey",
+  "DISTRITO": "Huarmey",
+  "CEM": "Huarmey",
+  "CONTRAPARTE": "Municipalidad Distrital de  Huarmey",
+  "CREACION": "16/12/2007",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "20.02.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "20.02.2024",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL DE ONG- REAQUI RURACHUN EN CONVENIO CON LA MUNICIPALIDAD (VENCIDO)"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1c9"
+  },
+  "Nro": 12,
+  "REGION": "Ancash",
+  "PROVINCIA": "Yungay",
+  "DISTRITO": "Yungay",
+  "CEM": "Yungay ",
+  "CONTRAPARTE": "Municipalidad Provincial de Yungay",
+  "CREACION": "14/07/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.12.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "02.12.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "ME DEVUELVE LA LLAMADA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ca"
+  },
+  "Nro": 13,
+  "REGION": "Ancash",
+  "PROVINCIA": "Huari",
+  "DISTRITO": "Huari",
+  "CEM": "Huari ",
+  "CONTRAPARTE": "Municipalidad  Provincial Huari",
+  "CREACION": "13/07/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "27.06.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "27.06.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "MERCADO "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1cb"
+  },
+  "Nro": 14,
+  "REGION": "Ancash",
+  "PROVINCIA": "Casma",
+  "DISTRITO": "Casma",
+  "CEM": "Casma",
+  "CONTRAPARTE": "Municipalidad Provincial Casma",
+  "CREACION": "14/11/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "29.08.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "29.08.2023",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL ONG- MAPAYMUMDI EN CONVENIO CON LA MUNICIPALIDAD DE CASMA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1cc"
+  },
+  "Nro": 15,
+  "REGION": "Ancash",
+  "PROVINCIA": "Carhuaz",
+  "DISTRITO": "Carhuaz",
+  "CEM": "Carhuaz",
+  "CONTRAPARTE": "Municipalidad Provincial Carhuaz",
+  "CREACION": "9/10/2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "10.05.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "10.05.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1cd"
+  },
+  "Nro": 16,
+  "REGION": "Ancash",
+  "PROVINCIA": "Huaylas",
+  "DISTRITO": "Caraz",
+  "CEM": "Huaylas",
+  "CONTRAPARTE": "Municipalidad Provincial de Huaylas",
+  "CREACION": "12/06/2012",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.02.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "23.02.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "ESTADIO PERTENECE A LA MUNICIPALIDAD"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ce"
+  },
+  "Nro": 17,
+  "REGION": "Ancash",
+  "PROVINCIA": "Sihuas",
+  "DISTRITO": "Sihuas",
+  "CEM": "Sihuas",
+  "CONTRAPARTE": "Municipalidad Provincial  de Sihuas",
+  "CREACION": "31/10/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "05.11.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "05.11.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1cf"
+  },
+  "Nro": 18,
+  "REGION": "Ancash",
+  "PROVINCIA": "Bolognesi",
+  "DISTRITO": "Chiquian",
+  "CEM": "Bolognesi",
+  "CONTRAPARTE": "Municipalidad Provincial de Bolognesi",
+  "CREACION": "31/10/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.04.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "16.04.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d0"
+  },
+  "Nro": 19,
+  "REGION": "Ancash",
+  "PROVINCIA": "Asunción ",
+  "DISTRITO": "Chacas",
+  "CEM": "Asunción",
+  "CONTRAPARTE": "Municipalidad Provincial de Asunción ",
+  "CREACION": "10/04/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "28.04.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "28.04.2022",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "SE RENUEVA CADA 3 MESES"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d1"
+  },
+  "Nro": 20,
+  "REGION": "Ancash",
+  "PROVINCIA": "Pallasca",
+  "DISTRITO": "Cabana ",
+  "CEM": "Pallasca",
+  "CONTRAPARTE": "Municipalidad Provincial  de Pallasca",
+  "CREACION": "14/11/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "17.06.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "17.06.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d2"
+  },
+  "Nro": 21,
+  "REGION": "Ancash",
+  "PROVINCIA": "Mariscal Luzuriaga",
+  "DISTRITO": "Piscobamba",
+  "CEM": "Mariscal Luzuriaga",
+  "CONTRAPARTE": "Municipalidad Provincial  de Mariscal Luzuriaga",
+  "CREACION": "14/11/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "05.04.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "05.04.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d3"
+  },
+  "Nro": 22,
+  "REGION": "Ancash",
+  "PROVINCIA": "Pomabamba",
+  "DISTRITO": "Pomabamba",
+  "CEM": "Pomabamba",
+  "CONTRAPARTE": "Municipalidad Provincial  de Pomabamba",
+  "CREACION": "11/06/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "08.09.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "08.09.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d4"
+  },
+  "Nro": 23,
+  "REGION": "Ancash",
+  "PROVINCIA": "Antonio Raimondi",
+  "DISTRITO": "Antonio Raimondi",
+  "CEM": "Llameli",
+  "CONTRAPARTE": "Municipalidad Provincial  de Antonio Raimondi",
+  "CREACION": "21/08/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "08.11.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "08.11.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d5"
+  },
+  "Nro": 24,
+  "REGION": "Ancash",
+  "PROVINCIA": "Carlos Fermín Fitzcarrald",
+  "DISTRITO": "Carlos Fermín Fitzcarrald",
+  "CEM": "San Luis",
+  "CONTRAPARTE": "Municipalidad Provincial  de Carlos fermín Fiztcarrald",
+  "CREACION": "6/10/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "30.07.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "30.07.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d6"
+  },
+  "Nro": 25,
+  "REGION": "Ancash",
+  "PROVINCIA": "Recuay",
+  "DISTRITO": "Recuay",
+  "CEM": "Recuay",
+  "CONTRAPARTE": "Municipalidad Provincial  de  Recuay",
+  "CREACION": "19/11/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "18.12.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "18.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d7"
+  },
+  "Nro": 26,
+  "REGION": "Ancash",
+  "PROVINCIA": "Aija",
+  "DISTRITO": "Aija",
+  "CEM": "Aija",
+  "CONTRAPARTE": "Municipalidad Provincial  de  Aija",
+  "CREACION": "6/05/2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "11.08.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "11.08.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d8"
+  },
+  "Nro": 27,
+  "REGION": "Ancash",
+  "PROVINCIA": "Ocros",
+  "DISTRITO": "Ocros",
+  "CEM": "Ocros",
+  "CONTRAPARTE": "Municipalidad Provincial  de  Ocros",
+  "CREACION": "30/04/2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "17.06.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "17.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1d9"
+  },
+  "Nro": 28,
+  "REGION": "Ancash",
+  "PROVINCIA": "Corongo",
+  "DISTRITO": "Corongo",
+  "CEM": "Corongo",
+  "CONTRAPARTE": "Municipalidad Provincial  de  Corongo",
+  "CREACION": "30/04/2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.10.2027",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "25..02,2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1da"
+  },
+  "Nro": 29,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Grau",
+  "DISTRITO": "Chuquibambilla",
+  "CEM": "Chuquibambilla",
+  "CONTRAPARTE": "Municipalidad Provincial de  Grau",
+  "CREACION": "14.08.2009",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "20.11.2024",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "25.02.2025",
+  "FECHA DE VENCIMIENTO": "25.02.2029",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1db"
+  },
+  "Nro": 30,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Antabamba",
+  "DISTRITO": "Antabamba",
+  "CEM": "Antabamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Antabamba",
+  "CREACION": "01.06.2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "12.05.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "12.05.2022",
+  "FECHA DE VENCIMIENTO": "12.05.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1dc"
+  },
+  "Nro": 31,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Cotabambas",
+  "DISTRITO": "Tambobamba",
+  "CEM": "Cotabambas",
+  "CONTRAPARTE": "Municipalidad Provincial de Cotabambas",
+  "CREACION": "26/12/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "29.8.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "29.08.2023",
+  "FECHA DE VENCIMIENTO": "29.08.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1dd"
+  },
+  "Nro": 32,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Abancay",
+  "DISTRITO": "Abancay",
+  "CEM": "Abancay",
+  "CONTRAPARTE": "LOCAL ALQUILADO",
+  "CREACION": "18.06.2006",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1de"
+  },
+  "Nro": 33,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Andahuaylas",
+  "DISTRITO": "Andahuaylas",
+  "CEM": "Andahuaylas",
+  "CONTRAPARTE": "Municipalidad Provincial de Andahuaylas",
+  "CREACION": "22.05.2000",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "04.05.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1df"
+  },
+  "Nro": 34,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Aymaraes",
+  "DISTRITO": "Chalhuanca",
+  "CEM": "Aymaraes",
+  "CONTRAPARTE": "Municipalidad Provincial de Aymaraes",
+  "CREACION": "30/04/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "15.09.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "15.09.2021",
+  "FECHA DE VENCIMIENTO": "15.09.2025",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e0"
+  },
+  "Nro": 35,
+  "REGION": "APURIMAC",
+  "PROVINCIA": "Chincheros",
+  "DISTRITO": "Chincheros",
+  "CEM": "Chincheros",
+  "CONTRAPARTE": "Municipalidad Provincial de Chincheros",
+  "CREACION": "31.03.2000",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "14.02.2025",
+  "FECHA DE VENCIMIENTO": "31.12.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e1"
+  },
+  "Nro": 36,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Arequipa",
+  "DISTRITO": "Arequipa",
+  "CEM": "Arequipa ",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "CREACION": "29/05/2001",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "ALQUILADO DESDE SET 2019, EN UN SOLO LOCAL FUNCIONA CEM, SAU  Y COORD. REGIONAL",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2017 / Oficio Nº 1823-2021-MIMP-AURORA-DE de fecha 17.12.2021/ Oficio Nº 044-2023-MIMP-AURORA-DE de fecha 11.01.2023",
+  "AÑO": 2017,
+  "FECHA DE SUSCRIPCION": "02.03.2017",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA ",
+  "OBSERVACIONES ALQUILADOS": "20/09/22 al 19/09/23"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e2"
+  },
+  "Nro": 37,
+  "REGION": "AREQUIPA",
+  "DISTRITO": "Miraflores",
+  "CEM": "Miraflores         ",
+  "CONTRAPARTE": "Municipalidad distrital  de Miraflores",
+  "CREACION": "24/06/2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "19.04.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e3"
+  },
+  "Nro": 38,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Camaná",
+  "DISTRITO": "Camaná",
+  "CEM": "Camaná           ",
+  "CONTRAPARTE": "Municipalidad Provincial de Camaná",
+  "CREACION": "1/06/2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.03.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e4"
+  },
+  "Nro": 39,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Arequipa",
+  "DISTRITO": "Alto Selva Alegre",
+  "CEM": "Alto Selva Alegre (Antes CEM Socabaya)",
+  "CONTRAPARTE": "Municipalidad Distrital de Alto Selva Alegre",
+  "CREACION": "08.09.2022",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "08.09.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "08.09.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e5"
+  },
+  "Nro": 40,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Islay",
+  "DISTRITO": "Mollendo",
+  "CEM": "Islay ",
+  "CONTRAPARTE": "Municipalidad Provincial Islay",
+  "CREACION": "16/11/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.09.2024",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "24.03.2025",
+  "FECHA DE VENCIMIENTO": "24.03.2029",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e6"
+  },
+  "Nro": 41,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Castilla",
+  "DISTRITO": "Aplao",
+  "CEM": "Castilla",
+  "CONTRAPARTE": "Municipalidad Provincial de Castilla",
+  "CREACION": "27/09/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "25.06.2030",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "25.06.2024",
+  "FECHA DE VENCIMIENTO": "25.06.2030",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e7"
+  },
+  "Nro": 42,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Caravelí",
+  "DISTRITO": "Caravelí",
+  "CEM": "Caravelí",
+  "CONTRAPARTE": "Municipalidad Provincial de Caravelí",
+  "CREACION": "11/10/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "18.11.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "18.11.2021",
+  "FECHA DE VENCIMIENTO": "18.11.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e8"
+  },
+  "Nro": 43,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Condesuyos",
+  "DISTRITO": "Chuquibamba",
+  "CEM": "Condesuyos",
+  "CONTRAPARTE": "Municipalidad Provincial de Condesuyos",
+  "CREACION": "10/04/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "11.05.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "11.05.2021",
+  "FECHA DE VENCIMIENTO": "11.05.2025",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL DE LA ASOCIACION COPACABANA EN CESION DE USO CON EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1e9"
+  },
+  "Nro": 44,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Arequipa",
+  "DISTRITO": "Yura",
+  "CEM": "Yura (antes La Unión)",
+  "CONTRAPARTE": "Municipalidad Distrital de Yura",
+  "CREACION": "24/10/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.06.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "22.06.2022",
+  "FECHA DE VENCIMIENTO": "22.06.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ea"
+  },
+  "Nro": 45,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Arequipa",
+  "DISTRITO": "Mariano Melgar",
+  "CEM": "Mariano Melgar",
+  "CONTRAPARTE": "Municipalidad Distrital de Mariano Melgar ",
+  "CREACION": "14.12.2018",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "NO TIENE PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "02.04.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "MERCADO MUNICIPAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1eb"
+  },
+  "Nro": 46,
+  "REGION": "AREQUIPA",
+  "PROVINCIA": "Caylloma",
+  "DISTRITO": "Majes",
+  "CEM": "Majes",
+  "CONTRAPARTE": "Municipalidad Distrital de Majes",
+  "CREACION": "20/07/2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "28.10.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "28.10.2021",
+  "FECHA DE VENCIMIENTO": "28.10.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "ESTADIO PERTENECE A LA MUNICIPALIDAD"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ec"
+  },
+  "Nro": 47,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Huamanga",
+  "DISTRITO": "Jesús Nazareno",
+  "CEM": "Huamanga",
+  "CONTRAPARTE": "Municipalidad Distrital de Jesús Nazareno",
+  "CREACION": "06.08.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "28.12.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "28.12.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "LOCAL DE LA MUNICIPALIDAD DISTRITAL JESUS DE NAZARENO "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ed"
+  },
+  "Nro": 48,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Cangallo",
+  "DISTRITO": "Cangallo",
+  "CEM": "Cangallo",
+  "CONTRAPARTE": "Municipalidad Provincial de Cangallo",
+  "CREACION": "1/12/2007",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "01.04.2025",
+  "FECHA DE VENCIMIENTO": "31.12.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ee"
+  },
+  "Nro": 49,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Huanca Sancos",
+  "DISTRITO": "Sancos",
+  "CEM": "Huanca Sancos",
+  "CONTRAPARTE": "Municipalidad Provincial de Huanca Sancos",
+  "CREACION": "1/10/2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.09.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.09.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ef"
+  },
+  "Nro": 50,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Huanta",
+  "DISTRITO": "Huanta",
+  "CEM": "Huanta ",
+  "CONTRAPARTE": "Municipalidad distrital de Luricocha",
+  "CREACION": "3/07/2000",
+  "ESTADO": " Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "27.12.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f0"
+  },
+  "Nro": 51,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Huanta",
+  "DISTRITO": "Sivia",
+  "CEM": "Sivia",
+  "CONTRAPARTE": "Municipalidad Distrital de Sivia",
+  "CREACION": "12/12/2012",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.02.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "16.02.2021",
+  "FECHA DE VENCIMIENTO": "16.02.2025",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f1"
+  },
+  "Nro": 52,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "La Mar",
+  "DISTRITO": "San Miguel",
+  "CEM": "La Mar",
+  "CONTRAPARTE": "Municipalidad Provincial de La Mar",
+  "CREACION": 38919,
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "15.03.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "SE ENCUENTRA EN TRÁMITE EN LA MUNICIALIDAD"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f2"
+  },
+  "Nro": 53,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Lucanas",
+  "DISTRITO": "Puquio",
+  "CEM": "Lucanas",
+  "CONTRAPARTE": "Municipalidad Provincial de Lucanas",
+  "CREACION": "1/12/2007",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.03.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "22.03.2023",
+  "FECHA DE VENCIMIENTO": "22.03.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f3"
+  },
+  "Nro": 54,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Parinacochas",
+  "DISTRITO": "Cora Cora",
+  "CEM": "Parinacochas",
+  "CONTRAPARTE": "Municipalidad Provincial de Parinacochas",
+  "CREACION": "1/12/2007",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "20.04.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "20.04.2023",
+  "FECHA DE VENCIMIENTO": "20.04.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f4"
+  },
+  "Nro": 55,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Paucar Del Sara Sara",
+  "DISTRITO": "Pausa",
+  "CEM": "Paucar Del Sara Sara",
+  "CONTRAPARTE": "Municipalidad Provincial de Paucar del Sara Sara",
+  "CREACION": "26/11/2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "18.07.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "18.07.2022",
+  "FECHA DE VENCIMIENTO": "18.07.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f5"
+  },
+  "Nro": 56,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Sucre",
+  "DISTRITO": "Querobamba",
+  "CEM": "Sucre",
+  "CONTRAPARTE": "Municipalidad Provincial de Sucre",
+  "CREACION": "1/10/2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "04.10.2023",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "04.10.2023",
+  "FECHA DE VENCIMIENTO": "04.10.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f6"
+  },
+  "Nro": 57,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Fajardo",
+  "DISTRITO": "Huancapi",
+  "CEM": "Victor Fajardo",
+  "CONTRAPARTE": "Municipalidad Provincial de Victor Fajardo",
+  "CREACION": "29/04/2011",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "24.03.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "NO SE HA ENVIADO PROPUESTA, SE REQUIERE REUNIÓN CON LA SUPERINTENDENCIA Y MINITER PARA PROYECTAR LA PROPUESTA."
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f7"
+  },
+  "Nro": 58,
+  "REGION": "AYACUCHO",
+  "PROVINCIA": "Vilcas Huaman",
+  "DISTRITO": "Vilcas Huaman",
+  "CEM": "Vilcas Huaman",
+  "CONTRAPARTE": "Municipalidad Provincial de Vilcas Huaman",
+  "CREACION": "20/07/2006",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "25.07.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "25.07.2024",
+  "FECHA DE VENCIMIENTO": "25.07.2028",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f8"
+  },
+  "Nro": 59,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Cajamarca",
+  "DISTRITO": "Cajamarca",
+  "CEM": "Cajamarca",
+  "CONTRAPARTE": "Municipalidad Provincial de Cajamarca/ Sociedad de Beneficencia de Cajamarca",
+  "CREACION": "16/06/2000",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "NO TIENE PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "16.04.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DE LA BENEFICENCIA",
+  "OBSERVACIONES ALQUILADOS": "SE ENCUENTRA EN TRÁMITE EN LA MUNICIALIDAD"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1f9"
+  },
+  "Nro": 60,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Cajabamba",
+  "DISTRITO": "Cajabamba",
+  "CEM": "Cajabamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Cajabamba",
+  "CREACION": "15/12/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "03.06.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "03.06.2022",
+  "FECHA DE VENCIMIENTO": "03.06.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1fa"
+  },
+  "Nro": 61,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Celendin ",
+  "DISTRITO": "Celendin",
+  "CEM": "Celendin ",
+  "CONTRAPARTE": "Municipalidad Provincial de Celendin ",
+  "CREACION": 41191,
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.06.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "16.06.2021",
+  "FECHA DE VENCIMIENTO": "16.06.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1fb"
+  },
+  "Nro": 62,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Chota ",
+  "DISTRITO": "Chota ",
+  "CEM": "Chota ",
+  "CONTRAPARTE": "FONCODES AFECTACION EN USO",
+  "CREACION": "12/07/2010",
+  "ESTADO": "AFECTACION EN USO",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "AFECTACION EN USO POR 02 AÑOS FONCODES RESOLUCION ADMINISTRATIVA No.  056-2025",
+  "OBSERVACIONES Y VIGENCIA": "30.03.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "20.03.2025",
+  "LOCAL ": "FONCODES (AFECTACION EN USO)",
+  "OBSERVACIONES ALQUILADOS": "SE REMITIÓ NOTA A UA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1fc"
+  },
+  "Nro": 63,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Cutervo",
+  "DISTRITO": "Cutervo",
+  "CEM": "Cutervo",
+  "CONTRAPARTE": "Municipalidad Provincial de Cutervo",
+  "CREACION": "8/08/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.04.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "26.04.2022",
+  "FECHA DE VENCIMIENTO": "26.04.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1fd"
+  },
+  "Nro": 64,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Hualgayoc",
+  "DISTRITO": "Hualgayoc",
+  "CEM": "Hualgayoc",
+  "CONTRAPARTE": "Municipalidad Provincial de Hualgayoc",
+  "CREACION": "5/08/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "24.03.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "24.03.2025",
+  "FECHA DE VENCIMIENTO": "24.03.2029",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1fe"
+  },
+  "Nro": 65,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Jaén",
+  "DISTRITO": "Jaén",
+  "CEM": "Jaén",
+  "CONTRAPARTE": "Municipalidad Provincial de Jaen",
+  "CREACION": "1/06/2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "29.08.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "LOCAL MULTISERVICIOS MADRE NIÑO ",
+  "OBSERVACIONES ALQUILADOS": "LOCAL MULTISERVICIOS MADRE NIÑO HAY ACTA DE TRANSFERENCIA A NOMBRE DE LA COORD. DEL CEM"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf1ff"
+  },
+  "Nro": 66,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "San Ignacio ",
+  "DISTRITO": "San Ignacio",
+  "CEM": "San Ignacio ",
+  "CONTRAPARTE": "Municipalidad Provincial de San Ignacio ",
+  "CREACION": "28/03/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2025",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "02.04.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2025",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "AL 31.12.2017"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf200"
+  },
+  "Nro": 67,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Contumazá",
+  "DISTRITO": "Contumazá",
+  "CEM": "Contumazá",
+  "CONTRAPARTE": "Municipalidad Provincial de Contumazá",
+  "CREACION": "18/03/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "08.03.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "08.03.2024",
+  "FECHA DE VENCIMIENTO": "08.03.2028",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf201"
+  },
+  "Nro": 68,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "San Marcos",
+  "DISTRITO": "Pedro Gálvez",
+  "CEM": "San Marcos",
+  "CONTRAPARTE": "Municipalidad Provincial de San Marcos",
+  "CREACION": "20/09/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "20.02.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "20.02.2024",
+  "FECHA DE VENCIMIENTO": "20.02.2028",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "PAGAN PUNTUAL SE HA FIRMADO UNA ADENDA DE PRORROGA ALQ POR 1 AÑO MAS "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf202"
+  },
+  "Nro": 69,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "San Pablo",
+  "DISTRITO": "San Pablo",
+  "CEM": "San Pablo",
+  "CONTRAPARTE": "Municipalidad Provincial de San Pablo",
+  "CREACION": "30/04/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "04.05.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "04.05.2022",
+  "FECHA DE VENCIMIENTO": "04.05.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf203"
+  },
+  "Nro": 70,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "San Miguel",
+  "DISTRITO": "San Miguel",
+  "CEM": "San Miguel",
+  "CONTRAPARTE": "Municipalidad Provincial de San Miguel",
+  "CREACION": "9/09/2013",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "16.03.2021",
+  "FECHA DE VENCIMIENTO": "16.03.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf204"
+  },
+  "Nro": 71,
+  "REGION": "CAJAMARCA",
+  "PROVINCIA": "Santa Cruz",
+  "DISTRITO": "Santa Cruz",
+  "CEM": "Santa Cruz",
+  "CONTRAPARTE": "Municipalidad  Provincial de Santa Cruz",
+  "CREACION": "23/10/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "07.04.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "07.04.2025",
+  "FECHA DE VENCIMIENTO": "07.04.2029",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "ESTAN EN EL LOCAL DESDE QUE SE CREO EL CEM, EL MUNICIPIO PAGA PUNTUAL EL ALQ."
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf205"
+  },
+  "Nro": 72,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Espinar ",
+  "DISTRITO": "Espinar ",
+  "CEM": "Espinar ",
+  "CONTRAPARTE": "Municipalidad  Provincial de Espinar",
+  "CREACION": "04.05.2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.04.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "23.04.2021",
+  "FECHA DE VENCIMIENTO": "23.04.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf206"
+  },
+  "Nro": 73,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Canchis",
+  "DISTRITO": "Canchis ",
+  "CEM": "Sicuani",
+  "CONTRAPARTE": "Municipalidad  Provincial de Canchis",
+  "CREACION": "03.10.1999",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "27.02.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf207"
+  },
+  "Nro": 74,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Quispicanchi",
+  "DISTRITO": "Urcos",
+  "CEM": "Quispicanchi",
+  "CONTRAPARTE": "Municipalidad  Provincial de Quispicanchi",
+  "CREACION": "10.02.2011",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "02.03.2021",
+  "FECHA DE VENCIMIENTO": "02.03.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf208"
+  },
+  "Nro": 75,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Anta",
+  "DISTRITO": "Anta",
+  "CEM": "Anta",
+  "CONTRAPARTE": "Municipalidad  Provincial de Anta",
+  "CREACION": "14.11.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.10.2023",
+  "FECHA DE VENCIMIENTO": "13.10.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf209"
+  },
+  "Nro": 76,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Urubamba",
+  "DISTRITO": "Urubamba",
+  "CEM": "Urubamba",
+  "CONTRAPARTE": "Municipalidad  Provincial de Urubamba",
+  "CREACION": "12/05/2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.08.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "02.08.2021",
+  "FECHA DE VENCIMIENTO": "02.08.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf20a"
+  },
+  "Nro": 77,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Calca",
+  "DISTRITO": "Calca",
+  "CEM": "Calca",
+  "CONTRAPARTE": "Municipalidad  Provincial de Calca \n",
+  "CREACION": "19.10.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "27.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "27.10.2023",
+  "FECHA DE VENCIMIENTO": "27.10.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf20b"
+  },
+  "Nro": 78,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Chumbivilcas",
+  "DISTRITO": "Santo Tomas",
+  "CEM": "Chumbivilcas",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "CREACION": "01.06.2008",
+  "ESTADO": "local alquilado/",
+  "GESTION DESCENT": "transf",
+  "AÑO": 2016,
+  "FECHA DE SUSCRIPCION": "18.01.2016",
+  "FECHA DE VENCIMIENTO": "31.12.2016",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA ",
+  "OBSERVACIONES ALQUILADOS": "NO HAY VOLUNTAD POLITICA DE SUSCRIBIR"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf20c"
+  },
+  "Nro": 79,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Cusco",
+  "DISTRITO": "Wanchaq",
+  "CEM": "Cusco",
+  "CONTRAPARTE": "FONCODES AFECTACION EN USO",
+  "CREACION": "09.09.1999",
+  "ESTADO": "AFECTACION EN USO",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "AFECTACION EN USO POR 02 AÑOS FONCODES Resolución Nº 158-2023-FONCODES/UA",
+  "OBSERVACIONES Y VIGENCIA": "03.02.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "03.02.2023",
+  "FECHA DE VENCIMIENTO": "03.02.2025",
+  "LOCAL ": "FONCODES (AFECTACION EN USO)"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf20d"
+  },
+  "Nro": 80,
+  "REGION": "CUSCO",
+  "PROVINCIA": "La Convencion",
+  "DISTRITO": "Kimbiri",
+  "CEM": "Kimbiri",
+  "CONTRAPARTE": "Municipalidad Distrital de Kimbiri",
+  "CREACION": "4.10.2007",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "05.05.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf20e"
+  },
+  "Nro": 81,
+  "REGION": "CUSCO",
+  "DISTRITO": "Pichari",
+  "CEM": "Pichari",
+  "CONTRAPARTE": "Municipalidad Distrital de Pichari",
+  "CREACION": "04.07.2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "07.03.2025",
+  "FECHA DE VENCIMIENTO": "31.12.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf20f"
+  },
+  "Nro": 82,
+  "REGION": "CUSCO",
+  "DISTRITO": "Santa Ana",
+  "CEM": "Quillabamba",
+  "CONTRAPARTE": "Municipalidad  Provincial de Quillabamba",
+  "CREACION": "14.07.10",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "31.05.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf210"
+  },
+  "Nro": 83,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Echarati",
+  "DISTRITO": "Echarati",
+  "CEM": "Echarati - Kiteni",
+  "CONTRAPARTE": "Municipalidad Distrital de Echarati",
+  "CREACION": "11/11/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "03.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "03.10.2023",
+  "FECHA DE VENCIMIENTO": "03.10.2027",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL COMUNAL EL GOB. LOCAL ESTA CONSTRUYENDO SU PROPIO LOCAL MUNICIPAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf211"
+  },
+  "Nro": 84,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Acomayo",
+  "DISTRITO": "Acomayo",
+  "CEM": "Acomayo",
+  "CONTRAPARTE": "Municipalidad  Provincial de Acomayo",
+  "CREACION": "9/05/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "01.06.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "01.06.2022",
+  "FECHA DE VENCIMIENTO": "01.06.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf212"
+  },
+  "Nro": 85,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Cusco",
+  "DISTRITO": "Paucartambo",
+  "CEM": "Paucartambo",
+  "CONTRAPARTE": "Municipalidad  Provincial de Paucartambo",
+  "CREACION": "2/04/2013",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "15.02.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "15.02.2021",
+  "FECHA DE VENCIMIENTO": "15.02.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf213"
+  },
+  "Nro": 86,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Canas",
+  "DISTRITO": "Canas",
+  "CEM": "Canas",
+  "CONTRAPARTE": "Municipalidad  Provincial de Canas",
+  "CREACION": "21/06/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.10.2023",
+  "FECHA DE VENCIMIENTO": "13.10.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf214"
+  },
+  "Nro": 87,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Paruro",
+  "DISTRITO": "Paruro",
+  "CEM": "Paruro",
+  "CONTRAPARTE": "Municipalidad  Provincial de Paruro",
+  "CREACION": "6/05/2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "21.08.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "21.08.2023",
+  "FECHA DE VENCIMIENTO": "21.08.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf215"
+  },
+  "Nro": 88,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Cusco",
+  "DISTRITO": "Saylla",
+  "CEM": "Saylla",
+  "CONTRAPARTE": "Municipalidad Distrital de Saylla",
+  "CREACION": "11.04.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT / REUBICADO ANTES CEM SAN JERONIMO",
+  "OBSERVACIONES Y VIGENCIA": "29.08.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "29.08.2023",
+  "FECHA DE VENCIMIENTO": "29.08.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf216"
+  },
+  "Nro": 89,
+  "REGION": "CUSCO",
+  "PROVINCIA": "Cusco",
+  "DISTRITO": "San Sebastian",
+  "CEM": "San Sebastian",
+  "CONTRAPARTE": "Municipalidad Distrital de San Sebastian",
+  "CREACION": "04/05.2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "15.05.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "15.05.2024",
+  "FECHA DE VENCIMIENTO": "15.05.2028",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf217"
+  },
+  "Nro": 90,
+  "REGION": "HUANCAVELICA",
+  "PROVINCIA": "Huancavelica",
+  "DISTRITO": "Huancavelica",
+  "CEM": "Huancavelica",
+  "CONTRAPARTE": "Municipalidad Provincial de Huancavelica",
+  "CREACION": "1/03/2004",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "SE FIRMO POR 1 AÑO Y 6 MESES",
+  "OBSERVACIONES Y VIGENCIA": "16.04.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "16.10.2023",
+  "FECHA DE VENCIMIENTO": "16.04.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf218"
+  },
+  "Nro": 91,
+  "PROVINCIA": "Acobamba",
+  "DISTRITO": "Acobamba",
+  "CEM": "Acobamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Acobamba",
+  "CREACION": "1/06/2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "06.02.2025",
+  "FECHA DE VENCIMIENTO": "31.12.2026",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "AL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf219"
+  },
+  "Nro": 92,
+  "PROVINCIA": "Angaraes",
+  "DISTRITO": "Lircay",
+  "CEM": "Angaraes",
+  "CONTRAPARTE": "Municipalidad Provincial de Angaraes",
+  "CREACION": "25/07/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "06.10.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "06.10.2022",
+  "FECHA DE VENCIMIENTO": "06.10.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf21a"
+  },
+  "Nro": 93,
+  "PROVINCIA": "Churcampa",
+  "DISTRITO": "Churcampa",
+  "CEM": "Churcampa",
+  "CONTRAPARTE": "Municipalidad Provincial de Churcampa",
+  "CREACION": "1/07/2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "12.11.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "12.11.2020",
+  "FECHA DE VENCIMIENTO": "12.11.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf21b"
+  },
+  "Nro": 94,
+  "PROVINCIA": "Huaytara",
+  "DISTRITO": "Huaytara",
+  "CEM": "Huaytara",
+  "CONTRAPARTE": "Municipalidad Provincial de Huaytara",
+  "CREACION": "1/10/2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "09.08.2027",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "09.08.2024",
+  "FECHA DE VENCIMIENTO": "09.08.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf21c"
+  },
+  "Nro": 95,
+  "PROVINCIA": "Tayacaja",
+  "DISTRITO": "Tayacaja",
+  "CEM": "Tayacaja",
+  "CONTRAPARTE": "Municipalidad Distrital de Colcabamba",
+  "CREACION": "22/05/2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "05.03.2030",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "05.03.2024",
+  "FECHA DE VENCIMIENTO": "05.03.2030",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf21d"
+  },
+  "Nro": 96,
+  "PROVINCIA": "Castrovirreyna ",
+  "DISTRITO": "Castrovirreyna ",
+  "CEM": "Castrovirreyna ",
+  "CONTRAPARTE": "Municipalidad Provincial de Castrovirreyna",
+  "CREACION": "1/03/2013",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.11.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "16.11.2020",
+  "FECHA DE VENCIMIENTO": "16.11.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf21e"
+  },
+  "Nro": 97,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Huánuco",
+  "DISTRITO": "Amarilis",
+  "CEM": "Huánuco",
+  "CONTRAPARTE": "Municipalidad Distrital de Amarilis ",
+  "CREACION": "22/05/2000",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2025",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "27.02.2025",
+  "LOCAL ": "LOCAL MULTISERVICIOS MADRE NIÑO ",
+  "OBSERVACIONES ALQUILADOS": "LOCAL MULTISERVICIOS MADRE NIÑO TRANSFERIDO AL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf21f"
+  },
+  "Nro": 98,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Ambo",
+  "DISTRITO": "Ambo",
+  "CEM": "Ambo",
+  "CONTRAPARTE": "Municipalidad Provincial de Ambo ",
+  "CREACION": "24.06.2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "17.02.2028",
+  "AÑO": 2026,
+  "FECHA DE SUSCRIPCION": "17,02,2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf220"
+  },
+  "Nro": 99,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Dos De Mayo",
+  "DISTRITO": "Ripan",
+  "CEM": "Dos De Mayo ",
+  "CONTRAPARTE": "Municipalidad Distrital de Ripan",
+  "CREACION": "1/10/2012",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Aprobado en Sesión de Concejo",
+  "OBSERVACIONES Y VIGENCIA": "02.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "02.03.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf221"
+  },
+  "Nro": 100,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Huamalies",
+  "DISTRITO": "Llata",
+  "CEM": "Huamalies",
+  "CONTRAPARTE": "Municipalidad Provincial de Huamalies",
+  "CREACION": "3/06/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "10.10.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "10.10.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf222"
+  },
+  "Nro": 101,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Leoncio Prado",
+  "DISTRITO": "Tingo María ",
+  "CEM": "Tingo María ",
+  "CONTRAPARTE": "Municipalidad Provincial de Leoncio Prado",
+  "CREACION": "23/04/2010",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2025",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "11.04.2025",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA 31.12.2022 LA NUEVA GESTION ESTA GARANTIZANDO EL ALQUILER PARA EL 2023. "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf223"
+  },
+  "Nro": 102,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Pachitea",
+  "DISTRITO": "Panao",
+  "CEM": "Pachitea",
+  "CONTRAPARTE": "Municipalidad Provincial de Pachitea ",
+  "CREACION": "21/07/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "03.08.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "03.08.2021",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf224"
+  },
+  "Nro": 103,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Puerto Inca",
+  "DISTRITO": "Puerto Inca",
+  "CEM": "Puerto Inca",
+  "CONTRAPARTE": "Municipalidad Provincial de Puerto Inca",
+  "CREACION": "18/03/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "05.09.2026",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "05.09.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "NECESITA SER TRASLADADO, NO CUENTA CON SSHH"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf225"
+  },
+  "Nro": 104,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Lauricocha",
+  "DISTRITO": "Jesús",
+  "CEM": "Lauricocha",
+  "CONTRAPARTE": "Municipalidad Provincial de Lauricocha",
+  "CREACION": "26/04/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.05.2026",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "01.07.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf226"
+  },
+  "Nro": 105,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Marañón ",
+  "DISTRITO": "Huacrachuco",
+  "CEM": "Marañón ",
+  "CONTRAPARTE": "Municipalidad Provincial de Marañón",
+  "CREACION": "30/04/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.05.2024",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "23.05.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf227"
+  },
+  "Nro": 106,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Yarowilca",
+  "DISTRITO": "Chavinillo",
+  "CEM": "Yarowilca",
+  "CONTRAPARTE": "Municipalidad Provincial de Yarowilca",
+  "CREACION": "16/07/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.02.2027",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "16.02.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf228"
+  },
+  "Nro": 107,
+  "REGION": "HUANUCO",
+  "PROVINCIA": "Huacaybamba",
+  "DISTRITO": "Huacaybamba",
+  "CEM": "Huacaybamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Huacaybamba",
+  "CREACION": "16/05/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "11.02.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "11.02.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf229"
+  },
+  "Nro": 108,
+  "REGION": "ICA",
+  "PROVINCIA": "Ica",
+  "DISTRITO": "Ica",
+  "CEM": "Ica",
+  "CONTRAPARTE": "Sociedad de Beneficencia Publica de Ica",
+  "CREACION": "1/10/2013",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "NO TIENE PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "10.09.2024",
+  "LOCAL ": "PROPIO DE LA BENEFICENCIA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf22a"
+  },
+  "Nro": 109,
+  "REGION": "ICA",
+  "PROVINCIA": "Ica",
+  "DISTRITO": "Salas",
+  "CEM": "Salas",
+  "CONTRAPARTE": "Municipalidad Distrital de Salas (ex Santiago)",
+  "CREACION": "CREACION/REUBICACION 16.07.2023 (antes CEM Ocucaje, CEM Santiago)",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT /REUBICADO ANTES CEM OCUCAJE / CEM SANTIAGO",
+  "OBSERVACIONES Y VIGENCIA": "18.05.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "18.05.2023",
+  "FECHA DE VENCIMIENTO": "18.05.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf22b"
+  },
+  "Nro": 110,
+  "REGION": "ICA",
+  "PROVINCIA": "Ica",
+  "DISTRITO": "Ica",
+  "CEM": "Parcona",
+  "CONTRAPARTE": "Municipalidad Distrital de Parcona",
+  "CREACION": "17.04.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT / REUBICADO ANTES CEM LA TINGUIÑA",
+  "OBSERVACIONES Y VIGENCIA": "16.06.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "16.06.2023",
+  "FECHA DE VENCIMIENTO": "16.06.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf22c"
+  },
+  "Nro": 111,
+  "REGION": "ICA",
+  "PROVINCIA": "Chincha",
+  "DISTRITO": "Pueblo Nuevo ",
+  "CEM": "Pueblo Nuevo ",
+  "CONTRAPARTE": "Municipalidad Distrital de Pueblo Nuevo",
+  "CREACION": "29/12/2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "10.04.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "10.04.2023",
+  "FECHA DE VENCIMIENTO": "10.04.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf22d"
+  },
+  "Nro": 112,
+  "REGION": "ICA",
+  "PROVINCIA": "Nasca",
+  "DISTRITO": "Nasca",
+  "CEM": "Nasca",
+  "CONTRAPARTE": "Municipalidad Provincial de Nasca",
+  "CREACION": "10/05/2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "19.05.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "19.05.2021",
+  "FECHA DE VENCIMIENTO": "19.05.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf22e"
+  },
+  "Nro": 113,
+  "REGION": "ICA",
+  "PROVINCIA": "Pisco",
+  "DISTRITO": "Pisco",
+  "CEM": "Pisco",
+  "CONTRAPARTE": "Municipalidad Provincial de Pisco ",
+  "CREACION": "28/12/2018",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "09.02.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "09.02.2023",
+  "FECHA DE VENCIMIENTO": "09.02.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf22f"
+  },
+  "Nro": 114,
+  "REGION": "ICA",
+  "PROVINCIA": "Palpa",
+  "DISTRITO": "Palpa",
+  "CEM": "Palpa",
+  "CONTRAPARTE": "Municipalidad Provincial de Palpa",
+  "CREACION": "15/07/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "29.09.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "29.09.2022",
+  "FECHA DE VENCIMIENTO": "29.09.2026",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf230"
+  },
+  "Nro": 115,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Chanchamayo",
+  "DISTRITO": "Chanchamayo",
+  "CEM": "Chanchamayo",
+  "CONTRAPARTE": "Municipalidad Provincial de Chanchamayo",
+  "CREACION": "20.06.2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "SE FIRMO POR 06 MESES ",
+  "OBSERVACIONES Y VIGENCIA": "02.02.2025",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "02.08.2024",
+  "FECHA DE VENCIMIENTO": "02.02.2025",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL PERTENECE A CARITAS SELVA PERU, C// EL ÚLTIMO CONVENIO SE SUSCRIBIO 2024 FUE POR 6 MESES"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf231"
+  },
+  "Nro": 116,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Yauli",
+  "DISTRITO": "Yauli",
+  "CEM": "Yauli",
+  "CONTRAPARTE": "Municipalidad Provincial de Yauli",
+  "CREACION": "07.09.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "20.06.0208",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "20.06.2024",
+  "FECHA DE VENCIMIENTO": "20.06.0208",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf232"
+  },
+  "Nro": 117,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Tarma",
+  "DISTRITO": "Tarma",
+  "CEM": "Tarma",
+  "CONTRAPARTE": "Municipalidad Provincial de Tarma",
+  "CREACION": "14.04.2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "12.07.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "12.07.2021",
+  "FECHA DE VENCIMIENTO": "12.07.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf233"
+  },
+  "Nro": 118,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Chupaca",
+  "DISTRITO": "Chupaca",
+  "CEM": "Chupaca",
+  "CONTRAPARTE": "Municipalidad Provincial de Chupaca",
+  "CREACION": "22.02.2011",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "NO TIENE PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "08.11.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf234"
+  },
+  "Nro": 119,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Junin",
+  "DISTRITO": "Junin",
+  "CEM": "Junin",
+  "CONTRAPARTE": "Municipalidad Provincial de Junin",
+  "CREACION": "28.05.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "07.11.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "07.11.2022",
+  "FECHA DE VENCIMIENTO": "07.11.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf235"
+  },
+  "Nro": 120,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Satipo",
+  "DISTRITO": "San Martin de Pangoa",
+  "CEM": "Pangoa",
+  "CONTRAPARTE": "Municipalidad Distrital de Pangoa",
+  "CREACION": "12.11.2012",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "no transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "02.02.2021",
+  "FECHA DE VENCIMIENTO": "02.03.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf236"
+  },
+  "Nro": 121,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Concepcion",
+  "DISTRITO": "Concepcion",
+  "CEM": "Concepcion",
+  "CONTRAPARTE": "Municipalidad Provincial de Concepción ",
+  "CREACION": "01.05.2008",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "14.02.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf237"
+  },
+  "Nro": 122,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Huancayo",
+  "DISTRITO": "Huancayo",
+  "CEM": "Huancayo",
+  "CONTRAPARTE": "Sociedad de Beneficiencia de Huancayo ",
+  "CREACION": "23.05.2001",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "10.04.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DE LA BENEFICENCIA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf238"
+  },
+  "Nro": 123,
+  "REGION": "JUNIN",
+  "DISTRITO": "Chilca",
+  "CEM": "Chilca",
+  "CONTRAPARTE": "Municipalidad Distrital de Chilca",
+  "CREACION": "25.10.1999",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2025",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "15.08.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf239"
+  },
+  "Nro": 124,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Jauja",
+  "DISTRITO": "Apata",
+  "CEM": "Jauja",
+  "CONTRAPARTE": "Municipalidad Distrital de Apata",
+  "CREACION": "25.10.1999",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.06.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "26.06.2024",
+  "FECHA DE VENCIMIENTO": "26.06.2028",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf23a"
+  },
+  "Nro": 125,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Satipo",
+  "DISTRITO": "Satipo",
+  "CEM": "Satipo",
+  "CONTRAPARTE": "Municipalidad Provincial de Satipo - Municipalidad Distrital de Río Negro.",
+  "CREACION": "30.12.2002",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "30.12.2024",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "09.09.2022",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "LOCAL PERTENECE A LA MUNICIPALIDAD DE RIO NEGRO "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf23b"
+  },
+  "Nro": 126,
+  "REGION": "JUNIN",
+  "PROVINCIA": "Chanchamayo",
+  "DISTRITO": "Pichanaqui",
+  "CEM": "Pichanaqui",
+  "CONTRAPARTE": "Municipalidad Distrital de Pichanaqui",
+  "CREACION": "8-Jun-15",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "08.11.2024",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "08.11.2022",
+  "FECHA DE VENCIMIENTO": "08.11.2026",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA EL 31.12.2022 (INCUNPLIMIENTO  CON EL PAGO  DE UN MES POR EL SERV. DE ALQUILER) "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf23c"
+  },
+  "Nro": 127,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "TRUJILLO",
+  "DISTRITO": "Trujillo",
+  "CEM": "Trujillo ",
+  "CONTRAPARTE": "Municipalidad Provincial de Trujillo",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "07.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf23d"
+  },
+  "Nro": 128,
+  "REGION": "LA LIBERTAD",
+  "DISTRITO": "La Esperanza",
+  "CEM": "La Esperanza",
+  "CONTRAPARTE": "Municipalidad Distrital de La Esperanza",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "11.04.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf23e"
+  },
+  "Nro": 129,
+  "REGION": "LA LIBERTAD",
+  "DISTRITO": "El Porvenir",
+  "CEM": "El Porvenir",
+  "CONTRAPARTE": "Municipalidad Distrital El Porvenir",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.07.2028",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "22.07.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf23f"
+  },
+  "Nro": 130,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Otuzco",
+  "DISTRITO": "Otuzco",
+  "CEM": "Otuzco ",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Oficio N° 109-2019-DE de fecha 21.01.2019 / Oficio Múltiple N° 013-2019-DE de fecha 22.04.2019/ Oficio 758-2019-DE de fecha 19.06.2019 - REITERATIVO/ Oficio Multiple N° 80-2019-MIMP/PNCVFS-DE de fecha 13.11.2019 / Ofcio Nº 085-2021-MIMP-AURORA-UAS de fecha 28.10.2021",
+  "OBSERVACIONES Y VIGENCIA": "ORDEN SE SERVICIOS N° 1206-2018-PNCVFS (04.10.2018) ALQUILER DE LOCAL POR 12 MESES.",
+  "AÑO": 2016,
+  "FECHA DE SUSCRIPCION": "08.11.2016",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf240"
+  },
+  "Nro": 131,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Ascope",
+  "DISTRITO": "Chocope",
+  "CEM": "Chocope",
+  "CONTRAPARTE": "Municipalidad Distrital de Chocope",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "18.12.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "18.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf241"
+  },
+  "Nro": 132,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Chepen",
+  "DISTRITO": "Chepen",
+  "CEM": "Chepen",
+  "CONTRAPARTE": "Municipalidad Provincial de Chepen",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "29.11.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "29.11.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf242"
+  },
+  "Nro": 133,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Pacasmayo",
+  "DISTRITO": "San Pedro De Lloc",
+  "CEM": "Pacasmayo",
+  "CONTRAPARTE": "Municipalidad Provincial de Pacasmayo",
+  "CREACION": "06.12.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.26",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "07.03.2025",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf243"
+  },
+  "Nro": 134,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Sánchez Carrión",
+  "DISTRITO": "Huamachuco",
+  "CEM": "Huamachuco",
+  "CONTRAPARTE": "Municipalidad Provincial de Sanchez Carrion/ Municipalidad Distrital de Chugay",
+  "CREACION": "Dicembre 2007",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "22.03.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf244"
+  },
+  "Nro": 135,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Santiago De Chuco",
+  "DISTRITO": "Santiago De Chuco",
+  "CEM": "Santiago De Chuco",
+  "CONTRAPARTE": "Municipalidad Provincial de Santiago de Chuco ",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "16.10.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf245"
+  },
+  "Nro": 136,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Gran Chimu",
+  "DISTRITO": "Cascas",
+  "CEM": "Gran Chimu",
+  "CONTRAPARTE": "Municipalidad Provincial de Gran Chimu",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "17.02.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "17.02.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf246"
+  },
+  "Nro": 137,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Viru",
+  "DISTRITO": "Viru",
+  "CEM": "Viru",
+  "CONTRAPARTE": "Municipalidad Provincial de Viru",
+  "ESTADO": "no Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "21.05.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "21.05.2021",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "EL MUNICIPIO PAGA PUNTUAL EL ALQ. EL CEM FUNCIONA EN EL LOCAL DESDE QUE SE CREO, ES DECIR 2011, HASTA EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf247"
+  },
+  "Nro": 138,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Julcán",
+  "DISTRITO": "Julcán",
+  "CEM": "Julcán",
+  "CONTRAPARTE": "Municipalidad Provincial de Julcán",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.10.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA EL 31.12.22 ESTA GARANTIZADO "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf248"
+  },
+  "Nro": 139,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Pataz",
+  "DISTRITO": "Tayabamba",
+  "CEM": "Pataz",
+  "CONTRAPARTE": "Municipalidad Provincial de Pataz",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.10.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "26.10.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf249"
+  },
+  "Nro": 140,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Trujillo",
+  "DISTRITO": "Florencia de Mora ",
+  "CEM": "Florencia de Mora ",
+  "CONTRAPARTE": "Municipalidad Distrital de Florencia de Mora ",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "16.03.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf24a"
+  },
+  "Nro": 141,
+  "REGION": "LA LIBERTAD",
+  "PROVINCIA": "Bolívar",
+  "DISTRITO": "Bolívar",
+  "CEM": "Bolívar",
+  "CONTRAPARTE": "Municipalidad Provincial de Bolívar",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "28.11.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "28.11.2024",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "HASTA EL 31.12.2022"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf24b"
+  },
+  "Nro": 142,
+  "REGION": "LAMBAYEQUE",
+  "PROVINCIA": "Chiclayo",
+  "DISTRITO": "Chiclayo",
+  "CEM": "Chiclayo",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado / No vigente",
+  "GESTION DESCENT": "No Transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "25.11.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "25.11.2020",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA ",
+  "OBSERVACIONES ALQUILADOS": "SE PAGA CON NORMALIDAD "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf24c"
+  },
+  "Nro": 143,
+  "REGION": "LAMBAYEQUE",
+  "PROVINCIA": "Ferreñafe",
+  "DISTRITO": "Ferreñafe",
+  "CEM": "Ferreñafe",
+  "CONTRAPARTE": "Municipalidad Provincial de Ferreñafe",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2025",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "05.09.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf24d"
+  },
+  "Nro": 144,
+  "REGION": "LAMBAYEQUE",
+  "PROVINCIA": "Lambayeque",
+  "DISTRITO": "Lambayeque",
+  "CEM": "Lambayeque",
+  "CONTRAPARTE": "Municipalidad Provincial de Lambayeque",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "03.04.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf24e"
+  },
+  "Nro": 145,
+  "REGION": "LORETO",
+  "PROVINCIA": "Mariscal Ramon Castilla",
+  "DISTRITO": "Caballo Cocha",
+  "CEM": "Caballo Cocha",
+  "CONTRAPARTE": "Municipalidad Provincial de Mariscal Ramon Castilla",
+  "CREACION": "25.03.2011",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Manifestación de interés a MINDEF y Vicariato",
+  "OBSERVACIONES Y VIGENCIA": "24.11.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "24.11.2020",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf24f"
+  },
+  "Nro": 146,
+  "REGION": "LORETO",
+  "PROVINCIA": "Maynas",
+  "DISTRITO": "Punchana",
+  "CEM": "Iquitos",
+  "CONTRAPARTE": "Municipalidad Provincial Maynas",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "En Asesoria Legal de la Muni",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "01.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf250"
+  },
+  "Nro": 147,
+  "REGION": "LORETO",
+  "PROVINCIA": "Loreto",
+  "DISTRITO": "Nauta",
+  "CEM": "Nauta",
+  "CONTRAPARTE": "Municipalidad Provincial de Loreto - Nauta",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "En Asesoria Legal de la Muni",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "06.07.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf251"
+  },
+  "Nro": 148,
+  "REGION": "LORETO",
+  "PROVINCIA": "Datem del Marañon",
+  "DISTRITO": "Barranca-San Lorenzo",
+  "CEM": "Datem del Marañon",
+  "CONTRAPARTE": "Municipalidad Provincial de Datem del Marañon",
+  "CREACION": "26.06.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "11.12.2026",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "11.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf252"
+  },
+  "Nro": 149,
+  "REGION": "LORETO",
+  "PROVINCIA": "Requena",
+  "DISTRITO": "Requena",
+  "CEM": "Requena",
+  "CONTRAPARTE": "Municipalidad Provincial de Requena",
+  "CREACION": "14.08.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "09.04.2031",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "09.04.2025",
+  "FECHA DE VENCIMIENTO": "09.04.2031",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf253"
+  },
+  "Nro": 150,
+  "REGION": "LORETO",
+  "PROVINCIA": "Alto Amazonas",
+  "DISTRITO": "Yurimaguas",
+  "CEM": "Yurimaguas",
+  "CONTRAPARTE": "Municipalidad Provincial de Alto Amazonas",
+  "CREACION": "06.06.2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "26.01.2026",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "26.01.2024",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "FUNCIONA EN ESE LOCAL DESDE EL 2015, TIENEN PROBLEMAS DE PAGOS DE SERVICIOS. (AGUA)"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf254"
+  },
+  "Nro": 151,
+  "REGION": "LORETO",
+  "PROVINCIA": "Ucayali",
+  "DISTRITO": "Contamana",
+  "CEM": "Ucayali",
+  "CONTRAPARTE": "Municipalidad Provincial de Ucayali",
+  "CREACION": "18/03/2013",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.07.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "22.07.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf255"
+  },
+  "Nro": 152,
+  "REGION": "LORETO",
+  "PROVINCIA": "Maynas",
+  "DISTRITO": "Napo",
+  "CEM": "Napo",
+  "CONTRAPARTE": "Municipalidad Distrital de Napo ",
+  "CREACION": "19/11/2014",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "16.12.2026",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "16.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf256"
+  },
+  "Nro": 153,
+  "REGION": "LORETO",
+  "PROVINCIA": "Maynas",
+  "DISTRITO": "San Juan Bautista",
+  "CEM": "San Juan Bautista",
+  "CONTRAPARTE": "Municipalidad Distrital San Juan Bautista",
+  "CREACION": "10.05.2016",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "11.03.2031",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "11.03.2025",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf257"
+  },
+  "Nro": 154,
+  "REGION": "LORETO",
+  "PROVINCIA": "Putumayo",
+  "DISTRITO": "Putumayo",
+  "CEM": "Putumayo",
+  "CONTRAPARTE": "Municipalidad Provincial de Putumayo",
+  "CREACION": "26/06/2015",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "En evaluación de cambio de local",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2023",
+  "AÑO": 2019,
+  "FECHA DE SUSCRIPCION": "31.12.2019",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf258"
+  },
+  "Nro": 155,
+  "REGION": "MADRE DE DIOS",
+  "PROVINCIA": "Tahuamanu",
+  "DISTRITO": "Iberia",
+  "CEM": "Iberia",
+  "CONTRAPARTE": "Municipalidad Distrital de Iberia",
+  "CREACION": "1/06/2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "14.08.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "14.08.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf259"
+  },
+  "Nro": 156,
+  "REGION": "MADRE DE DIOS",
+  "PROVINCIA": "Tambopata",
+  "DISTRITO": "Tambopata",
+  "CEM": "Madre de Dios ",
+  "CONTRAPARTE": "PRONABI / CONVENIO ENTRE MIMNP/INABIF/CONADIS/PNCVFS- CENTRO DE SERVICIOS INTEGRALES",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "AFECTACION EN USO - PRONABI",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2017 ",
+  "AÑO": 2017,
+  "FECHA DE SUSCRIPCION": "20.09.2017",
+  "FECHA DE VENCIMIENTO": "31.12.2017",
+  "LOCAL ": "LOCAL DE PRONABI",
+  "OBSERVACIONES ALQUILADOS": "BIEN INCAUTADO, DONDE FUNCIONAN VARIOS SERVICIOS"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf25a"
+  },
+  "Nro": 157,
+  "REGION": "MADRE DE DIOS",
+  "PROVINCIA": "Tambopata",
+  "DISTRITO": "Inambari",
+  "CEM": "Inambari",
+  "CONTRAPARTE": "Asociación Huarayo ",
+  "CREACION": "09.05.2016",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "En evaluación con Vicariato",
+  "OBSERVACIONES Y VIGENCIA": "20.11.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "20.11.2020",
+  "LOCAL ": "PROPIO DE LA ASOCIACION"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf25b"
+  },
+  "Nro": 158,
+  "REGION": "MADRE DE DIOS",
+  "PROVINCIA": "Manu",
+  "DISTRITO": "Huepetuhe",
+  "CEM": "Huepetuhe",
+  "CONTRAPARTE": "Municipalidad Distrital  de Huepetuhe",
+  "CREACION": "6/10/2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "30.07.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "30.07.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf25c"
+  },
+  "Nro": 159,
+  "REGION": "MOQUEHÚA",
+  "PROVINCIA": "Mariscal Nieto",
+  "DISTRITO": "Moquegua",
+  "CEM": "Moquegua",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "CREACION": "25.08.2003",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Oficio n° 1267-2019-MIMP/PNCVFS-DE de fecha 07.10.2019/ Oficio Nº 414-2020-MIMP-AURORA-DE de fecha 26.03.2020/ Oficio Nº 1200-2020-MIMP-AURORA-DE de fecha 26.08.2020 / Oficio N º 1879-2020-MIMP-AURORA-DE de fecha 31.12.2020 (ampliacion de plazo)/ Oficio Nº 248-2021-MIMP-AURORA-DE de fecha 22.02.2021 (Pasto Grande)",
+  "OBSERVACIONES Y VIGENCIA": "Local Alquilado, Orden de Servicio Nº 550-2021-DEL 19.07.2021, por 12 meses.",
+  "AÑO": 2015,
+  "FECHA DE SUSCRIPCION": "24.11.2015",
+  "FECHA DE VENCIMIENTO": "24.11.2019",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf25d"
+  },
+  "Nro": 160,
+  "REGION": "MOQUEHÚA",
+  "PROVINCIA": "Ilo",
+  "DISTRITO": "Ilo",
+  "CEM": "Ilo",
+  "CONTRAPARTE": "Municipalidad Provincial de  Ilo",
+  "CREACION": "13.07.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "12.04.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "12.04.2022",
+  "FECHA DE VENCIMIENTO": "12.04.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf25e"
+  },
+  "Nro": 161,
+  "REGION": "MOQUEHÚA",
+  "PROVINCIA": "General Sánchez Cerro",
+  "DISTRITO": "Omate",
+  "CEM": "General Sánchez Cerro",
+  "CONTRAPARTE": "Municipalidad Provincial de  General Sánchez Cerro",
+  "CREACION": "22/05/2013",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.02.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "26.02.2021",
+  "FECHA DE VENCIMIENTO": "26.02.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf25f"
+  },
+  "Nro": 162,
+  "REGION": "PASCO",
+  "PROVINCIA": "Oxapampa",
+  "DISTRITO": "Oxapampa",
+  "CEM": "Oxapampa ",
+  "CONTRAPARTE": "Municipalidad Provincial de Oxapampa",
+  "CREACION": "23/05/2000",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "16.10.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "16.10.2020",
+  "FECHA DE VENCIMIENTO": "16.10.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf260"
+  },
+  "Nro": 163,
+  "REGION": "PASCO",
+  "PROVINCIA": "Oxampampa",
+  "DISTRITO": "Villa Rica",
+  "CEM": "Villa Rica",
+  "CONTRAPARTE": "Municipalidad Distrital de Villa Rica",
+  "CREACION": "30/12/2007",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.11.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "22.11.2023",
+  "FECHA DE VENCIMIENTO": "22.11.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf261"
+  },
+  "Nro": 164,
+  "REGION": "PASCO",
+  "PROVINCIA": "Pasco",
+  "DISTRITO": "Yanacancha",
+  "CEM": "Pasco",
+  "CONTRAPARTE": "Municipalidad Provincial de Pasco",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "16.06.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2024",
+  "LOCAL ": "LOCAL MULTISERVICIOS MADRE NIÑO ",
+  "OBSERVACIONES ALQUILADOS": "LOCAL MULTISERVICIOS MADRE NIÑO TRANSFERIDO AL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf262"
+  },
+  "Nro": 165,
+  "REGION": "PASCO",
+  "PROVINCIA": "Daniel Alcides Carrion",
+  "DISTRITO": "Yanahuanca",
+  "CEM": "Daniel Carrion",
+  "CONTRAPARTE": "Municipalidad Provincial de Daniel Alcides Carrion",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "18.07.2026",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "18.07.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf263"
+  },
+  "Nro": 166,
+  "REGION": "PIURA",
+  "PROVINCIA": "Sechura",
+  "DISTRITO": "Sechura",
+  "CEM": "Sechura",
+  "CONTRAPARTE": "Municipalidad Provincial de Sechura",
+  "CREACION": "22.10.2008",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "05.04.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "05.04.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf264"
+  },
+  "Nro": 167,
+  "REGION": "PIURA",
+  "PROVINCIA": "Piura",
+  "DISTRITO": "Catacaos",
+  "CEM": "Catacaos (ex Suyo)",
+  "CONTRAPARTE": "Municipalidad Distrital de Catacaos",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.11.2029",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.11.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf265"
+  },
+  "Nro": 168,
+  "REGION": "PIURA",
+  "PROVINCIA": "Talara",
+  "DISTRITO": "Talara",
+  "CEM": "Talara",
+  "CONTRAPARTE": "Municipalidad Provincial de Talara",
+  "CREACION": "11.07.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.02.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "23.02.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf266"
+  },
+  "Nro": 169,
+  "REGION": "PIURA",
+  "PROVINCIA": "Talara",
+  "DISTRITO": "Mancora",
+  "CEM": "Mancora",
+  "CONTRAPARTE": "Municipalidad Distrital de Mancora",
+  "CREACION": "03.10.2023",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "03.10.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "03.10.2023"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf267"
+  },
+  "Nro": 170,
+  "REGION": "PIURA",
+  "PROVINCIA": "Chulucanas",
+  "DISTRITO": "Morropón",
+  "CEM": "Chulucanas",
+  "CONTRAPARTE": "Municipalidad Provincial de Chulucanas",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "17.03.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf268"
+  },
+  "Nro": 171,
+  "REGION": "PIURA",
+  "PROVINCIA": "Piura",
+  "DISTRITO": "Castilla",
+  "CEM": "Piura",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Oficio N° 090-2019-DE de fecha 21.01.2019/ Oficio Nº 1898-2020-MIMP-AURORA-DE de fecha 31.12.2020/ Oficio Nº 1758-2021-MIMP-AURORA-DE de fecha 07.12.2021",
+  "OBSERVACIONES Y VIGENCIA": "ORDEN DE SERVICIOS N° 055-2018-PNCVFS (26.01.2018), ALQUILER DE LOCAL POR 12 MESES     ORDEN DE SERVICIOS N°674-2019-PNCVFS (25.02.2019), ALQUILER DE LOCAL POR 12 MESES / Oficio N° 110-2019-OSG/MPP de fecha 26.02.2019, la Municipalidad señala que por el FEN no cuenta con locales. LSANCHEZ",
+  "AÑO": 2017,
+  "FECHA DE SUSCRIPCION": "02.01.2017",
+  "FECHA DE VENCIMIENTO": "31.12.2017",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf269"
+  },
+  "Nro": 172,
+  "REGION": "PIURA",
+  "PROVINCIA": "Paita",
+  "DISTRITO": "Paita",
+  "CEM": "Paita",
+  "CONTRAPARTE": "Municipalidad Provincial Paita",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2022",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "07,04,2025",
+  "FECHA DE VENCIMIENTO": "31,12,2026",
+  "LOCAL ": "LOCAL EN SESION DE USO A LA MUNICIPALIDAD",
+  "OBSERVACIONES ALQUILADOS": "LOCAL DE LA ASOCIACION DE VIVIENDA JUVECO"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf26a"
+  },
+  "Nro": 173,
+  "REGION": "PIURA",
+  "PROVINCIA": "Sullana",
+  "DISTRITO": "Sullana",
+  "CEM": "Sullana",
+  "CONTRAPARTE": "Municipalidad Provincial Sullana",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "26.06.2023",
+  "FECHA DE VENCIMIENTO": "31.12.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf26b"
+  },
+  "Nro": 174,
+  "REGION": "PIURA",
+  "PROVINCIA": "Huancabamba",
+  "DISTRITO": "Huancabamba",
+  "CEM": "Huancabamba",
+  "CONTRAPARTE": "Municipalidad Provincial de  Huancabamba",
+  "CREACION": "13.07.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "01.08.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "01.08.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "CONTRATO ALQ HASTA EL 31.12.2017, EL MUNICIPIO PAGA PUNTUAL, ESTAN EN ESE LOCAL DESDE FEB. 2017"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf26c"
+  },
+  "Nro": 175,
+  "REGION": "PIURA",
+  "PROVINCIA": "Piura",
+  "DISTRITO": "Castilla",
+  "CEM": "Santa Julia",
+  "CONTRAPARTE": "Gobierno Regional de Piura ",
+  "CREACION": "29.12.2017",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "21.03.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "21.03.2022",
+  "LOCAL ": "PROPIO DEL GOB. REGIONAL",
+  "OBSERVACIONES ALQUILADOS": "CENTRO DE SALUD SANTA JULIA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf26d"
+  },
+  "Nro": 176,
+  "REGION": "PUNO",
+  "PROVINCIA": "Puno",
+  "DISTRITO": "Puno",
+  "CEM": "Puno",
+  "CONTRAPARTE": "Sociedad de Beneficencia Publica de Puno",
+  "CREACION": "23.04.2010",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "OFICIO 081-2025-MIMP-AURORA-UST se solicitó reconsideración",
+  "OBSERVACIONES Y VIGENCIA": "27.02.2025",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "27.02.2024",
+  "LOCAL ": "PROPIO DE LA BENEFICENCIA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf26e"
+  },
+  "Nro": 177,
+  "REGION": "PUNO",
+  "PROVINCIA": "Melgar",
+  "DISTRITO": "Ayaviri",
+  "CEM": "Melgar",
+  "CONTRAPARTE": "Municipalidad Provincial de Melgar",
+  "CREACION": "04.05.2010",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "13.12.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "13.12.2024",
+  "FECHA DE VENCIMIENTO": "13.12.2028",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf26f"
+  },
+  "Nro": 178,
+  "REGION": "PUNO",
+  "PROVINCIA": "Azangaro",
+  "DISTRITO": "Azangaro",
+  "CEM": "Azangaro",
+  "CONTRAPARTE": "Municipalidad Provincial de Azangaro",
+  "CREACION": "09.02.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "18.12.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "18.12.2024",
+  "FECHA DE VENCIMIENTO": "18.12.2028",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf270"
+  },
+  "Nro": 179,
+  "REGION": "PUNO",
+  "PROVINCIA": "Chucuito",
+  "DISTRITO": "Juli",
+  "CEM": "Chucuito",
+  "CONTRAPARTE": "Municipalidad Provincial de Chucuito",
+  "CREACION": "22.02.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.09.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "26.09.2023",
+  "FECHA DE VENCIMIENTO": "26.09.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf271"
+  },
+  "Nro": 180,
+  "REGION": "PUNO",
+  "PROVINCIA": "San Antonio de Putina",
+  "DISTRITO": "Putina",
+  "CEM": "San Antonio de\n Putina",
+  "CONTRAPARTE": "Municipalidad Provincial de San Antonio de  Putina y la Dirección Regional Agraria de Puno",
+  "CREACION": "01.12.2011",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "Oficio Nº 1322-2021-MIMP-AURORA-DE de fecha 30.09.2021 / Oficio Nº 072-2021-MIMP-AURORA-UAS de fecha 22.10.2021",
+  "OBSERVACIONES Y VIGENCIA": "20.11.2021 / GARELLANO - GBULLON se solicitó afectacion en uso, la UA señala que la SBS aun no responde ",
+  "AÑO": 2017,
+  "FECHA DE SUSCRIPCION": "20.11.2017",
+  "FECHA DE VENCIMIENTO": "20.11.2021",
+  "LOCAL ": "LOCAL DE LA SUPERINTENDENCIA NACIONAL DE BIENES NACIONALES",
+  "OBSERVACIONES ALQUILADOS": "UA VIENE TRAMITANDO LA AFECTACION EN USO PARA EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf272"
+  },
+  "Nro": 181,
+  "REGION": "PUNO",
+  "PROVINCIA": "Sandia",
+  "DISTRITO": "Sandia",
+  "CEM": "Sandia",
+  "CONTRAPARTE": "Municipalidad Provincial de Sandia",
+  "CREACION": "31.05.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "01.01.2026",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "01.01.2022",
+  "FECHA DE VENCIMIENTO": "01.01.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf273"
+  },
+  "Nro": 182,
+  "REGION": "PUNO",
+  "PROVINCIA": "Carabaya",
+  "DISTRITO": "Macusani",
+  "CEM": "Carabaya",
+  "CONTRAPARTE": "Municipalidad Provincial de Carabaya",
+  "CREACION": "09.05.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2025",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "14.02.2025",
+  "FECHA DE VENCIMIENTO": "31.12.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf274"
+  },
+  "Nro": 183,
+  "REGION": "PUNO",
+  "PROVINCIA": "Huancane",
+  "DISTRITO": "Huancane",
+  "CEM": "Huancane",
+  "CONTRAPARTE": "Municipalidad  Provincial de Huancane",
+  "CREACION": "04.07.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2029",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "12.03.2024",
+  "FECHA DE VENCIMIENTO": "31.12.2029",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf275"
+  },
+  "Nro": 184,
+  "REGION": "PUNO",
+  "PROVINCIA": "Lampa",
+  "DISTRITO": "Lampa",
+  "CEM": "Lampa",
+  "CONTRAPARTE": "Municipalidad  Provincial de Lampa",
+  "CREACION": "14.07.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "09.06.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "09.06.2021",
+  "FECHA DE VENCIMIENTO": "09.06.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf276"
+  },
+  "Nro": 185,
+  "REGION": "PUNO",
+  "PROVINCIA": "Collao",
+  "DISTRITO": "Ilave",
+  "CEM": "Ilave",
+  "CONTRAPARTE": "Municipalidad Provincial  El Collao ",
+  "CREACION": "30.05.2010",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "10.03.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf277"
+  },
+  "Nro": 186,
+  "REGION": "PUNO",
+  "PROVINCIA": "Puno",
+  "DISTRITO": "Acora",
+  "CEM": "Acora",
+  "CONTRAPARTE": "Municipalidad Distrital de Acora",
+  "CREACION": "31.07.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "25.07.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "25.07.2023",
+  "FECHA DE VENCIMIENTO": "25.07.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf278"
+  },
+  "Nro": 187,
+  "REGION": "PUNO",
+  "PROVINCIA": "San Roman",
+  "DISTRITO": "Juliaca",
+  "CEM": "Juliaca",
+  "CONTRAPARTE": "Sociedad de Beneficencia de San Roman-Juliaca",
+  "CREACION": "14.02.2000",
+  "ESTADO": "local alquilado / No vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "26.06.2023",
+  "LOCAL ": "PROPIO DE LA BENEFICENCIA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf279"
+  },
+  "Nro": 188,
+  "REGION": "PUNO",
+  "PROVINCIA": "Moho",
+  "DISTRITO": "Moho",
+  "CEM": "Moho",
+  "CONTRAPARTE": "Municipalidad Provincial de Moho",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "19.11.2030",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "19.11.2024",
+  "FECHA DE VENCIMIENTO": "19.11.2030",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf27a"
+  },
+  "Nro": 189,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Tocache",
+  "DISTRITO": "Uchiza",
+  "CEM": "Uchiza",
+  "CONTRAPARTE": "Municipalidad Distrital de Uchiza",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": " REUBICADO ANTES CEM TOCACHE",
+  "OBSERVACIONES Y VIGENCIA": "31.10.2029",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "31.10.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "MUNICIPIO PAGA PUNTUAL EL ALQ. ESTAN EN ESE LOCAL DESDE 06.2016."
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf27b"
+  },
+  "Nro": 190,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Lamas",
+  "DISTRITO": "Lamas",
+  "CEM": "Lamas",
+  "CONTRAPARTE": "Municipalidad Provincial de\n Lamas",
+  "CREACION": "28.02.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "15.05.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "15.05.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf27c"
+  },
+  "Nro": 191,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Bellavista",
+  "DISTRITO": "Bellavista",
+  "CEM": "Bellavista",
+  "CONTRAPARTE": "Municipalidad Provincial de\nBellavista",
+  "CREACION": "17.08.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "24.03.2031",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "24.03.2025",
+  "FECHA DE VENCIMIENTO": "24.03.2031",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf27d"
+  },
+  "Nro": 192,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Mariscal Caceres",
+  "DISTRITO": "Juanjui",
+  "CEM": "Mariscal Caceres-\nJuanjui",
+  "CONTRAPARTE": "Municipalidad Provincial de Mariscal Caceres",
+  "CREACION": "08.08.2012",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "31.05.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "31.05.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf27e"
+  },
+  "Nro": 193,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Moyobamba",
+  "DISTRITO": "Moyobamba",
+  "CEM": "Moyobamba",
+  "CONTRAPARTE": "Municipalidad Provincial de Moyobamba",
+  "CREACION": "22.06.2007",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "03.04.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf27f"
+  },
+  "Nro": 194,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Moyobamba",
+  "DISTRITO": "Soritor",
+  "CEM": "Soritor",
+  "CONTRAPARTE": "Municipalidad Distrital de Soritor",
+  "CREACION": "13.07.2023",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "13.07.2026",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.07.2023"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf280"
+  },
+  "Nro": 195,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Rioja",
+  "DISTRITO": "Rioja",
+  "CEM": "Rioja",
+  "CONTRAPARTE": "Municipalidad Provincial de Rioja",
+  "CREACION": "22.07.2007",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.03.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf281"
+  },
+  "Nro": 196,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "San Martin",
+  "DISTRITO": "Tarapoto",
+  "CEM": "Tarapoto",
+  "CONTRAPARTE": "Municipalidad Provincial de San Martin",
+  "CREACION": "25.05.2000",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "28.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf282"
+  },
+  "Nro": 197,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Picota",
+  "DISTRITO": "Picota",
+  "CEM": "Picota",
+  "CONTRAPARTE": "Municipalidad Provincial de Picota",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "13.09.2029",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "13.09.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "CONTRATO DE ALQ. HASTA EL 31.12.2017"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf283"
+  },
+  "Nro": 198,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "Huallaga",
+  "DISTRITO": "Saposoa",
+  "CEM": "Huallaga",
+  "CONTRAPARTE": "Municipalidad Provincial de Huallaga",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "24.11.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "24.11.2020",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "EL MUNICIPIO PAGA PUNTUAL EL ALQ. EL CEM FUNCIONA EN EL LOCAL DESDE QUE SE CREO, ES DECIR 2014"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf284"
+  },
+  "Nro": 199,
+  "REGION": "SAN MARTIN",
+  "PROVINCIA": "San Martín",
+  "DISTRITO": "La Banda de Shilcayo",
+  "CEM": "La Banda de Shilcayo (Ex CEM El Dorado)",
+  "CONTRAPARTE": "Municipalidad Distrital La Banda de Shilcayo",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "05.06.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "05.06.2023",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "EL MUNICIPIO PAGA PUNTUAL EL ALQ. EL CEM FUNCIONA EN EL LOCAL DESDE QUE SE CREO, ES DECIR 2014"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf285"
+  },
+  "Nro": 200,
+  "REGION": "TACNA",
+  "PROVINCIA": "Tacna",
+  "DISTRITO": "Tacna",
+  "CEM": "Tacna",
+  "CONTRAPARTE": "Municipalidad Provincial Tacna y FONCODES",
+  "CREACION": "01.11.2000",
+  "ESTADO": "AFECTACION EN USO vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "CONTRATO DE COMODATO ",
+  "OBSERVACIONES Y VIGENCIA": "01.10.2024",
+  "AÑO": 2007,
+  "FECHA DE SUSCRIPCION": "28.11.2024 FECHA RES. ADMINISTRATIVA",
+  "FECHA DE VENCIMIENTO": "01.10.2028",
+  "LOCAL ": "RESOLUCION ADMINISTRATIVA N° 00112-2024-MIDIS/FONCODES",
+  "OBSERVACIONES ALQUILADOS": "LA UA VIENE TRAMITANDO AFECTACION EN USO PARA EL PROGRAMA , ANTERIOR AFECTACION CON LA MUNICIPALIDAD"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf286"
+  },
+  "Nro": 201,
+  "REGION": "TACNA",
+  "PROVINCIA": "Candarave",
+  "DISTRITO": "Candarave",
+  "CEM": "Candarave",
+  "CONTRAPARTE": "Municipalidad Provincial de Candarave",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "16.02.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "16.02.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf287"
+  },
+  "Nro": 202,
+  "REGION": "TACNA",
+  "PROVINCIA": "Jorge Basadre",
+  "DISTRITO": "Locumba",
+  "CEM": "Jorge Basadre",
+  "CONTRAPARTE": "Mun. Prov. Jorge Basadre",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "09.04.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "09.04.2025",
+  "FECHA DE VENCIMIENTO": "09.04.2029",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf288"
+  },
+  "Nro": 203,
+  "REGION": "TACNA",
+  "PROVINCIA": "Tarata",
+  "DISTRITO": "Tarata",
+  "CEM": "Tarata",
+  "CONTRAPARTE": "Municipalidad Provincial de Tarata",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "18.05.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "18.05.2023",
+  "FECHA DE VENCIMIENTO": "18.05.2027",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf289"
+  },
+  "Nro": 204,
+  "REGION": "TUMBES",
+  "PROVINCIA": "Tumbes",
+  "DISTRITO": "Tumbes",
+  "CEM": "Tumbes",
+  "CONTRAPARTE": "Gobierno Regional de Tumbes ",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "07.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. REGIONAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf28a"
+  },
+  "Nro": 205,
+  "REGION": "TUMBES",
+  "PROVINCIA": "Zarumilla",
+  "DISTRITO": "Aguas Verdes",
+  "CEM": "Aguas Verdes (ex Zarumilla)",
+  "CONTRAPARTE": "Municipalidad Distrital de Aguas Verdes ",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "27.02.2028",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "27.02.2024",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "MUNICIPIO PAGA PUNTUAL NO HAN TENIDO INCOVENIENTES"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf28b"
+  },
+  "Nro": 206,
+  "REGION": "TUMBES",
+  "PROVINCIA": "Contralmirante Villar",
+  "DISTRITO": "Zorritos",
+  "CEM": "Contralmirante Villar",
+  "CONTRAPARTE": "Municipalidad Provincial Contralmirante Villar",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "28.09.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "28.09.2022",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf28c"
+  },
+  "Nro": 207,
+  "REGION": "UCAYALI",
+  "PROVINCIA": "Coronel Portillo",
+  "DISTRITO": "Callería",
+  "CEM": "Pucallpa",
+  "CONTRAPARTE": "Municipalidad Provincial Coronel Portillo",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "11.04.2025",
+  "FECHA DE VENCIMIENTO": "31.12.2026",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf28d"
+  },
+  "Nro": 208,
+  "REGION": "UCAYALI",
+  "PROVINCIA": "Padre Abad",
+  "DISTRITO": "Padre Abad",
+  "CEM": "Padre Abad",
+  "CONTRAPARTE": "Municipalidad Provincial Padre Abad",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT.",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "27.02.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf28e"
+  },
+  "Nro": 209,
+  "REGION": "UCAYALI",
+  "PROVINCIA": "Atalaya",
+  "DISTRITO": "Atalaya",
+  "CEM": "Atalaya",
+  "CONTRAPARTE": "Municpalidad Provincial de Atalaya",
+  "CREACION": "21.10.2011",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.06.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "22.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf28f"
+  },
+  "Nro": 210,
+  "REGION": "UCAYALI",
+  "PROVINCIA": "Purus",
+  "DISTRITO": "Purus",
+  "CEM": "Purus",
+  "CONTRAPARTE": "Municpalidad Provincial de Purus",
+  "CREACION": "21.04.2015",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "22.06.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "22.06.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf290"
+  },
+  "Nro": 211,
+  "REGION": "LIMA",
+  "PROVINCIA": "LIMA METROPOLITANA\n\n\n\n\n\n\n\n\n\n\n\n",
+  "DISTRITO": "Comas",
+  "CEM": "Comas",
+  "CONTRAPARTE": "INABIF",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "SUJETO A PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.08.2028",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "31.08.2023",
+  "LOCAL ": "PROPIO DEL INABIF"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf291"
+  },
+  "Nro": 212,
+  "REGION": "LIMA",
+  "DISTRITO": "Puente Piedra",
+  "CEM": "Puente Piedra ",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "26.11.2023/ Se remitio el Oficio Nº 017-2023-MIMP-AURORA-UAS el 11.01.2023 manifestando incumplimiento de convenioExp 00838-2023 se encuentra en Alcaldia 2196200 anexo 6205 al 10.02.2023",
+  "AÑO": 2019,
+  "FECHA DE SUSCRIPCION": "26.11.2019",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf292"
+  },
+  "Nro": 213,
+  "REGION": "LIMA",
+  "DISTRITO": "Los Olivos",
+  "CEM": "Los Olivos",
+  "CONTRAPARTE": "Municipalidad Distrital Los Olivos",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.07.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "26.07.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf293"
+  },
+  "Nro": 214,
+  "REGION": "LIMA",
+  "DISTRITO": "Independencia",
+  "CEM": "Independencia ",
+  "CONTRAPARTE": "Municipalidad Distrital Independencia",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "27.09.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "27.09.2023",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf294"
+  },
+  "Nro": 215,
+  "REGION": "LIMA",
+  "DISTRITO": "San Juan de Lurigancho",
+  "CEM": "San Juan de Lurigancho",
+  "CONTRAPARTE": "Municipalidad Distrital San Juan Lurigancho",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.05.2026",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "23.05.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf295"
+  },
+  "Nro": 216,
+  "REGION": "LIMA",
+  "DISTRITO": "San Juan de Miraflores",
+  "CEM": "San Juan de Miraflores - Pamplona Alta",
+  "CONTRAPARTE": "INABIF",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "SUJETO A PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.08.2028",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "31.08.2023",
+  "LOCAL ": "PROPIO DEL INABIF"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf296"
+  },
+  "Nro": 217,
+  "REGION": "LIMA",
+  "DISTRITO": "La Molina",
+  "CEM": "La Molina",
+  "CONTRAPARTE": "Municipalidad Distrital La Molina",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "26.03.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "26.03.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf297"
+  },
+  "Nro": 218,
+  "REGION": "LIMA",
+  "DISTRITO": "Chaclaclayo",
+  "CEM": "Chaclaclayo",
+  "CONTRAPARTE": "Junata de Obras Sociales de Chaclacayo",
+  "CREACION": "17.07.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "NO TIENE PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "10.10.2023",
+  "LOCAL ": "PROPIO DE LA JUNTA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf298"
+  },
+  "Nro": 219,
+  "REGION": "LIMA",
+  "DISTRITO": "Surco",
+  "CEM": "Surco",
+  "CONTRAPARTE": "Municipalidad Distrital de Surco",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "28.03.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "28.03.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf299"
+  },
+  "Nro": 220,
+  "REGION": "LIMA",
+  "DISTRITO": "Villa El Salvador",
+  "CEM": "Villa el Salvador",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "No transf",
+  "OBSERVACIONES Y VIGENCIA": "27.07.2022/ Oficio nº 094-2023-MIMP-AURORA-UAS de fecha 18.01.2023 se remitio prop convenio a la nueva gestion municipal/ Oficio 007 y 008-2023-MIMP-AURORA-USA, 26.04.2023 se solicito a la Direccion de Seg Ciudadada de la PNP la instalac del cem en la comis al igual q la División de Protección contra la  Violencia Familiar de la PNP",
+  "AÑO": 2016,
+  "FECHA DE SUSCRIPCION": "27.07.2016",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf29a"
+  },
+  "Nro": 221,
+  "REGION": "LIMA",
+  "DISTRITO": "San Martín de Porres",
+  "CEM": "San Martin de Porres ",
+  "CONTRAPARTE": "Municipalidad Distrital San Martín de Porres",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "28.09.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "28.09.2022",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL",
+  "OBSERVACIONES ALQUILADOS": "AURORA HIZO ACONDICIONAMIENTO"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf29b"
+  },
+  "Nro": 222,
+  "REGION": "LIMA",
+  "DISTRITO": "Villa María del Triunfo",
+  "CEM": "Villa María del Triunfo",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado/ No vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "ORDEN DE SERVICIO Nº 493-2021 de fecha 15.06.2021 por 12 meses alquiler",
+  "OBSERVACIONES Y VIGENCIA": "Oficio N° 1266-2019-MIMP/PNCVFS-DE de fecha 10.10.2019/ Oficio N° 0048-2020-MIMP-AURORA-DE de fecha 14.01.2020- RECONSIDERACION/ Oficio Nº 445-2020-MIMP-AURORA-DE de fecha 02.04.2020/ Oficio Nº 1088-2020-MIMP-AURORA-DE de fecha 10.08.2020/ Oficio Nº 1418-2020-MIMP-AURORA-DE (sala de regidores) del 08.10.2020/ Oficio nº 103-2023-MIMP-AURORA-UAS de fecha 20.01.2023 se remitio prop convenio a la nueva gestion municipal/ Oficio N° 227-2023-USA 12.04.2023 REITERATIVO A LA MUNI",
+  "AÑO": 2015,
+  "FECHA DE SUSCRIPCION": "11.12.2015",
+  "FECHA DE VENCIMIENTO": "11.12.2019",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA "
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf29c"
+  },
+  "Nro": 223,
+  "REGION": "LIMA",
+  "DISTRITO": "Pachacamac",
+  "CEM": "Manchay",
+  "CONTRAPARTE": "Parroquia Espiritu Santo",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "30.06.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "30.06.2024",
+  "LOCAL ": "PROPIO DE LA PARROQUIA"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf29d"
+  },
+  "Nro": 224,
+  "REGION": "LIMA",
+  "DISTRITO": "Magdalena",
+  "CEM": "Magdalena",
+  "CONTRAPARTE": "Municipalidad Distrital de Magdalena (antes CEM San Luis)",
+  "CREACION": "18.10.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "24.04.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "24.04.2024",
+  "LOCAL ": "ALQUILADO POR EL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf29e"
+  },
+  "Nro": 225,
+  "REGION": "LIMA",
+  "DISTRITO": "Surquillo",
+  "CEM": "Surquillo",
+  "CONTRAPARTE": "Municipalidad Distrital Surquillo",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "20.12.2024/ En tramite para alquiler de local ",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "20.12.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf29f"
+  },
+  "Nro": 226,
+  "REGION": "LIMA",
+  "DISTRITO": "El Agustino",
+  "CEM": "El Agustino",
+  "CONTRAPARTE": "Municipalidad Distrital El Agustino",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "04.04.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "04.04.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a0"
+  },
+  "Nro": 227,
+  "REGION": "LIMA",
+  "DISTRITO": "Carabayllo",
+  "CEM": "Carabayllo",
+  "CONTRAPARTE": "Municipalidad Distrital  Carabayllo",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "25.11.2024/ Oficio N° 559-2024-MIMP-AURORA-UST, Oficio N° 1340-2024-MIMP-AURORA-DE, Oficio N° 99-2025-MIMP-AURORA-UST (19.03.2.025), Oficio N° 113-2025-MIMP-AURORA-UST (25.03.2025)",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "25.11.2020",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a1"
+  },
+  "Nro": 228,
+  "REGION": "LIMA",
+  "DISTRITO": "Lima",
+  "CEM": "Lima Cercado",
+  "CONTRAPARTE": "MIMP",
+  "CREACION": 1999,
+  "ESTADO": "AFECTACION EN USO",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "AFECTACION EN USO POR 02 AÑOS FONCODES Resolución Directoral Nº 461-2023-MIMP/OGA",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "01.01.2024",
+  "LOCAL ": "PROPIO DEL MIMP"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a2"
+  },
+  "Nro": 229,
+  "REGION": "LIMA",
+  "DISTRITO": "Ancón",
+  "CEM": "Ancón",
+  "CONTRAPARTE": "Municipalidad Distrital  de Ancón",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "09.02.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "09.02.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a3"
+  },
+  "Nro": 230,
+  "REGION": "LIMA",
+  "DISTRITO": "Jesus María",
+  "CEM": "Jesus María (ex Rimac)",
+  "CONTRAPARTE": "Municipalidad Distrital de Jesus María",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "21.11.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "21.11.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a4"
+  },
+  "Nro": 231,
+  "REGION": "LIMA",
+  "DISTRITO": "Chosica",
+  "CEM": "Chosica",
+  "CONTRAPARTE": "Municipalidad Distrital de Chosica",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "30.12.2028",
+  "AÑO": 2024,
+  "FECHA DE SUSCRIPCION": "30.12.2024",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a5"
+  },
+  "Nro": 232,
+  "REGION": "LIMA",
+  "DISTRITO": "Cieneguilla",
+  "CEM": "Cieneguilla",
+  "CONTRAPARTE": "Municipalidad Distrital de Cieneguilla",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "01.06.2025 / Oficio N° 463-2025-MIMP-AURORA-DE de fecha 24.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "01.06.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a6"
+  },
+  "Nro": 233,
+  "REGION": "LIMA",
+  "DISTRITO": "La Victoria",
+  "CEM": "La Victoria",
+  "CONTRAPARTE": "Municipalidad Distrital de La Victoria",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.01.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "02.01.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a7"
+  },
+  "Nro": 234,
+  "REGION": "LIMA",
+  "DISTRITO": "San Miguel ",
+  "CEM": "San Miguel ",
+  "CONTRAPARTE": "Municipalidad Distrital de San Miguel",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "09.04.2025 / Oficio 106-2025-MIMP-AURORA-UST de fecha 24.03.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "09.04.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a8"
+  },
+  "Nro": 235,
+  "REGION": "LIMA",
+  "DISTRITO": "Lima",
+  "CEM": "Monserrat",
+  "CONTRAPARTE": "Municipalidad Lima Metropolitana",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT / ANTES CEM ZARATE",
+  "OBSERVACIONES Y VIGENCIA": "30.12.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "30.12.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2a9"
+  },
+  "Nro": 236,
+  "REGION": "LIMA",
+  "PROVINCIA": "Cañete",
+  "DISTRITO": "Cañete",
+  "CEM": "Cañete (ex Imperial)",
+  "CONTRAPARTE": "Municipalidad Provincial de Cañete",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT ",
+  "OBSERVACIONES Y VIGENCIA": "22.09.2029",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "22.09.2023",
+  "FECHA DE VENCIMIENTO": "22.09.2029",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2aa"
+  },
+  "Nro": 237,
+  "REGION": "LIMA",
+  "PROVINCIA": "Yauyos",
+  "DISTRITO": "Yauyos",
+  "CEM": "Yauyos",
+  "CONTRAPARTE": "Municipalidad Provincial de  Yauyos",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "27.05.2029",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "27.05.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2ab"
+  },
+  "Nro": 238,
+  "REGION": "LIMA",
+  "PROVINCIA": "Barranca",
+  "DISTRITO": "Barranca",
+  "CEM": "Barranca ",
+  "CONTRAPARTE": "Municipalidad Provincial de Barranca ",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.12.2025",
+  "AÑO": 2021,
+  "FECHA DE SUSCRIPCION": "23.12.2021",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2ac"
+  },
+  "Nro": 239,
+  "REGION": "LIMA",
+  "PROVINCIA": "Huaral",
+  "DISTRITO": "Huaral",
+  "CEM": "Huaral",
+  "CONTRAPARTE": "Municipalidad Provincial de Huaral",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "01.06.2023",
+  "FECHA DE VENCIMIENTO": "Oficio N° 2006-2024-MIMP-AUORA-DE de fecha 16.12.2024, se encuentra en la GDS a la espera del informe tecnico / Con fecha 24.03.2025 la Municipalidad ha solicitado se le envie un informe final de todas las actividades realizadas por el CEM durante el periodo del convenio, se envio correo al CT, a la promotora y coordinadora del CEM para que envien lo solicitado ",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2ad"
+  },
+  "Nro": 240,
+  "REGION": "LIMA",
+  "PROVINCIA": "Huaura",
+  "DISTRITO": "Huacho",
+  "CEM": "Huacho",
+  "CONTRAPARTE": "ALQUILADO AURORA",
+  "ESTADO": "local alquilado",
+  "GESTION DESCENT": "transf",
+  "OBSERVACIONES Y VIGENCIA": "Oficio N° 2007-2024-MIMP-AURORA-DE de fecha 16.12.2024",
+  "AÑO": 2019,
+  "FECHA DE SUSCRIPCION": "12.07.2019",
+  "FECHA DE VENCIMIENTO": "31.12.2019",
+  "LOCAL ": "LOCAL ALQUILADO POR EL PROGRAMA - O.S 1078-2024 de fecha 05.10.2024"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2ae"
+  },
+  "Nro": 241,
+  "REGION": "LIMA",
+  "PROVINCIA": "Oyón",
+  "DISTRITO": "Oyón",
+  "CEM": "Oyón",
+  "CONTRAPARTE": "Municipalidad Provincial de Oyón",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "23.05.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "23.05.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2af"
+  },
+  "Nro": 242,
+  "REGION": "LIMA",
+  "PROVINCIA": "Huarochiri",
+  "DISTRITO": "Huarochiri",
+  "CEM": "Huarochiri",
+  "CONTRAPARTE": "Municipalidad Provincial de Huarochiri",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2026",
+  "AÑO": 2025,
+  "FECHA DE SUSCRIPCION": "28.04.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2b0"
+  },
+  "Nro": 243,
+  "REGION": "LIMA",
+  "PROVINCIA": "Canta",
+  "DISTRITO": "Canta",
+  "CEM": "Canta",
+  "CONTRAPARTE": "Municipalidad Provincial de Canta",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "02.09.2026",
+  "AÑO": 2022,
+  "FECHA DE SUSCRIPCION": "02.09.2022",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2b1"
+  },
+  "Nro": 244,
+  "REGION": "LIMA",
+  "PROVINCIA": "Cajatambo",
+  "DISTRITO": "Cajatambo",
+  "CEM": "Cajatambo",
+  "CONTRAPARTE": "Municipalidad Provincial de Cajatambo",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "No transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "14.10.2024",
+  "AÑO": 2020,
+  "FECHA DE SUSCRIPCION": "14.10.2020",
+  "FECHA DE VENCIMIENTO": "Oficio N° 042-2025-MIMP-AUORA-UST de fecha 27.01.2025 / mediante Informe N° 050-2025-MIMP-AURORA-GBC- se viene gestionando el alquiler de local ",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2b2"
+  },
+  "Nro": 245,
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Callao",
+  "CEM": "Callao",
+  "CONTRAPARTE": "Poder Judicial Callao - Corte Superior de Justicia del Callao/ Municipalidad Provincial del Callao",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "NO TIENE PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "06.09.2025/ 31.12.2025",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "06.09.2023",
+  "LOCAL ": "PROPIO DEL PODER JUDICIAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2b3"
+  },
+  "Nro": 246,
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Ventanilla",
+  "CEM": "Pachacutec",
+  "CONTRAPARTE": "Organización Pobladores de la Ciudad Modelo Autogestionario Pachacutec - CIMAP",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "03.02.2023",
+  "FECHA DE VENCIMIENTO": "Oficio N° 2006-2024-MIMP-AUORA-DE de fecha 16.12.2024, se viene coordinando con la señora Reyna Ismidio, Oficio N° 108-2025-MIMP-AURORA-UST  del 21.03.2025 (reiterativo)",
+  "LOCAL ": "PROPIO DE LA ASOCIACION"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2b4"
+  },
+  "Nro": 247,
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Ventanilla",
+  "CEM": "Ventanilla",
+  "CONTRAPARTE": "Municipalidad Distrital de Ventanilla",
+  "ESTADO": "No Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT",
+  "OBSERVACIONES Y VIGENCIA": "31.12.2024",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "14.04.2023",
+  "FECHA DE VENCIMIENTO": "OFICIO 1981-2024-AURORA-DE - N° de Trámite: I20240055637, en GDH desde el 24.02.2025 a la espera que emitan informe tecnico/ Oficio N° 107-2025-MIMP-AURORA-UST del 21.03.2025 - reunion con el alcalde y la CT el viernes 28.03.2025",
+  "LOCAL ": "PROPIO DEL GOB. LOCAL"
+},
+{
+  "_id": {
+    "$oid": "683a574f900642be62aaf2b5"
+  },
+  "Nro": 248,
+  "REGION": "CALLAO",
+  "PROVINCIA": "Callao",
+  "DISTRITO": "Bellavista",
+  "CEM": "Bellavista",
+  "CONTRAPARTE": "Gobierno Regional del Callao",
+  "CREACION": "06.06.2019",
+  "ESTADO": "Vigente",
+  "GESTION DESCENT": "transf",
+  "SITUACION DE GESTION/NRO DE OFICIO": "PRORROGA AUT/ ANTES  CEM Carmen de la Legua)",
+  "OBSERVACIONES Y VIGENCIA": "18.12.2027",
+  "AÑO": 2023,
+  "FECHA DE SUSCRIPCION": "18.12.2023",
+  "LOCAL ": "PROPIO DEL GOB. REGIONAL"
+}]

@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "administrator",
+      "fullName": "Administrador Principal",
+      "permissions": ["read", "write", "delete", "manage_users"]
+    },
+    {
+      "username": "supervisor",
+      "password": "super123",
+      "role": "supervisor",
+      "fullName": "Supervisor General",
+      "permissions": ["read", "write", "reports"]
+    },
+    {
+      "username": "operator",
+      "password": "oper123",
+      "role": "operator",
+      "fullName": "Operador Sistema",
+      "permissions": ["read", "basic_reports"]
+    }
+  ]
+}

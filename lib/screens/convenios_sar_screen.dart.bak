@@ -1,0 +1,224 @@
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' show rootBundle;
+
+class ConveniosSarScreen extends StatefulWidget {
+  const ConveniosSarScreen({Key? key}) : super(key: key);
+
+  @override
+  State<ConveniosSarScreen> createState() => _ConveniosSarScreenState();
+}
+
+class _ConveniosSarScreenState extends State<ConveniosSarScreen> {
+  String? selectedRegion;
+  bool isFilterExpanded = false;
+
+  Widget _buildStatusIndicator(String estado) {
+    final isVigente = estado.toUpperCase().contains('VIGENTE');
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+      decoration: BoxDecoration(
+        color: isVigente ? Colors.green.withOpacity(0.1) : Colors.red.withOpacity(0.1),
+        borderRadius: BorderRadius.circular(4),
+        border: Border.all(
+          color: isVigente ? Colors.green : Colors.red,
+          width: 1,
+        ),
+      ),
+      child: Text(
+        estado,
+        style: TextStyle(
+          color: isVigente ? Colors.green : Colors.red,
+          fontWeight: FontWeight.bold,
+          fontSize: 12,
+        ),
+      ),
+    );
+  }
+
+  Future<List<dynamic>> _loadJsonData() async {
+    String jsonString = await rootBundle.loadString('assets/Convenios.Convenio_SAR.json');
+    return jsonDecode(jsonString);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Convenios SAR'),
+        backgroundColor: const Color(0xFF7D5492),
+      ),      body: FutureBuilder<List<dynamic>>(
+        future: _loadJsonData(),
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return const Center(child: CircularProgressIndicator());
+          } else if (snapshot.hasError) {
+            return Center(child: Text('Error: ${snapshot.error}'));
+          } else {
+            final List<dynamic> data = snapshot.data ?? [];
+            
+            // Obtener lista única de regiones
+            final regiones = data.map((item) => item['REGIÓN']?.toString() ?? '').toSet().toList()..sort();
+            
+            // Filtrar datos por región seleccionada
+            final filteredData = selectedRegion == null
+                ? data
+                : data.where((item) => item['REGIÓN']?.toString() == selectedRegion).toList();
+
+            if (data.isEmpty) {
+              return const Center(child: Text('No hay datos disponibles'));
+            }            // Obtener lista única de regiones
+            final regiones = data.map((item) => item['REGIÓN']?.toString() ?? '').toSet().toList()..sort();
+            
+            // Filtrar datos por región seleccionada
+            final filteredData = selectedRegion == null
+                ? data
+                : data.where((item) => item['REGIÓN']?.toString() == selectedRegion).toList();
+
+            return Column(
+              children: [
+                // Panel de filtros
+                AnimatedContainer(
+                  duration: const Duration(milliseconds: 300),
+                  height: isFilterExpanded ? 120 : 50,
+                  child: Card(
+                    margin: const EdgeInsets.all(8.0),
+                    child: InkWell(
+                      onTap: () {
+                        setState(() {
+                          isFilterExpanded = !isFilterExpanded;
+                        });
+                      },
+                      child: Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Column(
+                          children: [
+                            Row(
+                              children: [
+                                const Icon(Icons.filter_list),
+                                const SizedBox(width: 8),
+                                const Text('Filtros'),
+                                const Spacer(),
+                                Text(selectedRegion != null ? '1 activo' : '0 activos'),
+                                Icon(isFilterExpanded ? Icons.expand_less : Icons.expand_more),
+                              ],
+                            ),
+                            if (isFilterExpanded) ...[
+                              const SizedBox(height: 8),
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 8),
+                                decoration: BoxDecoration(
+                                  border: Border.all(color: Colors.grey),
+                                  borderRadius: BorderRadius.circular(4),
+                                ),
+                                child: DropdownButton<String>(
+                                  value: selectedRegion,
+                                  isExpanded: true,
+                                  hint: const Text('Seleccionar Región'),
+                                  underline: const SizedBox(),
+                                  items: [
+                                    const DropdownMenuItem<String>(
+                                      value: null,
+                                      child: Text('Todas las regiones'),
+                                    ),
+                                    ...regiones.map((region) => DropdownMenuItem<String>(
+                                      value: region,
+                                      child: Text(region),
+                                    )),
+                                  ],
+                                  onChanged: (value) {
+                                    setState(() {
+                                      selectedRegion = value;
+                                    });
+                                  },
+                                ),
+                              ),
+                            ],
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+                // Lista de convenios
+                Expanded(
+                  child: ListView.builder(
+                    itemCount: filteredData.length,
+                    itemBuilder: (context, index) {
+                      final item = filteredData[index];
+
+                return Card(
+                  elevation: 4.0,
+                  margin: const EdgeInsets.all(8.0),
+                  child: Padding(
+                    padding: const EdgeInsets.all(16.0),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [                        Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Text(
+                              'SAR ${item['SAR']?.toString() ?? ''}',
+                              style: const TextStyle(
+                                fontSize: 18,
+                                fontWeight: FontWeight.bold,
+                                color: Color(0xFF7D5492),
+                              ),
+                            ),
+                            _buildStatusIndicator(item['ESTADO SITUACIONAL']?.toString() ?? 'NO ESPECIFICADO'),
+                          ],
+                        ),
+                        const SizedBox(height: 16),
+                        _buildInfoRow('N°', item['Nº']?.toString()),
+                        _buildInfoRow('Región', item['REGIÓN']),
+                        _buildInfoRow('Provincia', item['PROVINCIA ']),
+                        _buildInfoRow('Distrito', item['DISTRITO']),
+                        _buildInfoRow('Contraparte', item['CONTRAPARTE']),
+                        _buildInfoRow('Fecha de suscripción del primer convenio', item['FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAR)']),
+                        _buildInfoRow('Prórroga', item['PRÓRROGA']),                        _buildInfoRow('Vencimiento del convenio', item['VENCIMIENTO DEL CONVENIO']),
+                        _buildInfoRow('Vencimiento con prórroga automática', item['VENCIMIENTO CON PRÓRROGA AUTOMÁTICA']),
+                        _buildInfoRow('Estado Situacional', item['ESTADO SITUACIONAL']),
+                        _buildInfoRow('Tipo de inmueble', item['TIPO DE INMUEBLE ']),
+                        if (item['SITUACIÓN DE GESTIÓN/NRO'] != null)
+                          _buildInfoRow('Situación de gestión', (item['SITUACIÓN DE GESTIÓN/NRO'] as Map<String, dynamic>)[' DE OFICIO']?.toString()),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            );
+          }
+        },
+      ),
+    );
+  }
+
+  Widget _buildInfoRow(String label, dynamic value) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 4),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          SizedBox(
+            width: 120,
+            child: Text(
+              '$label:',
+              style: const TextStyle(
+                fontWeight: FontWeight.bold,
+                color: Color(0xFF666666),
+              ),
+            ),
+          ),
+          Expanded(
+            child: Text(
+              value?.toString() ?? '',
+              style: const TextStyle(
+                color: Color(0xFF333333),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

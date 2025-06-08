@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf2fd"
+  },
+  "Nº": 1,
+  "REGIÓN": "Arequipa",
+  "PROVINCIA ": "Arequipa",
+  "DISTRITO": "Yanahuara",
+  "SAU": "AREQUIPA",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE YANAHUARA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAU)": "25/08/2022",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "NO",
+  "VENCIMIENTO DEL CONVENIO": "25/08/2024",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "25/08/2026",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf2fe"
+  },
+  "Nº": 2,
+  "REGIÓN": "Ayacucho",
+  "PROVINCIA ": "Huamanga",
+  "DISTRITO": "Huamanga",
+  "SAU": "AYACUCHO",
+  "CONTRAPARTE": "MUNICIPALIDAD PROVINCIAL DE HUAMANGA",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAU)": "6/09/2019",
+  "PRÓRROGA": "PRORROGA PARA EVALUACIÓN",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "14/05/2024",
+  "VENCIMIENTO DEL CONVENIO": "14/05/2026",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "RESULTADO DE LA EVALUACIÓN",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf2ff"
+  },
+  "Nº": 3,
+  "REGIÓN": "Cusco",
+  "PROVINCIA ": "Cusco",
+  "DISTRITO": "Santiago",
+  "SAU": "CUSCO",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE SANTIAGO",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAU)": "5/06/2019",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "1/04/2024",
+  "VENCIMIENTO DEL CONVENIO": "1/04/2026",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "1/04/2028",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf300"
+  },
+  "Nº": 4,
+  "REGIÓN": "Huanuco",
+  "PROVINCIA ": "Huánuco",
+  "DISTRITO": "Amarilis",
+  "SAU": "HUÁNUCO",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE AMARILIS",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAU)": "28/08/2019",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "30/04/2024",
+  "VENCIMIENTO DEL CONVENIO": "30/04/2026",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "30/04/2028",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf301"
+  },
+  "Nº": 5,
+  "REGIÓN": "La Libertad",
+  "PROVINCIA ": "Trujillo",
+  "DISTRITO": "El Porvenir",
+  "SAU": "LA LIBERTAD",
+  "CONTRAPARTE": "MUNICIPALIDAD DISTRITAL DE EL  PORVENIR",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAU)": "13/08/2019",
+  "PRÓRROGA": "AUTOMATICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "25/07/2024",
+  "VENCIMIENTO DEL CONVENIO": "25/07/2026",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "25/07/2028",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf302"
+  },
+  "Nº": 6,
+  "REGIÓN": "Madre de Dios",
+  "PROVINCIA ": "Tambopata",
+  "DISTRITO": "Tambopata",
+  "SAU": "MADRE DE DIOS",
+  "CONTRAPARTE": "GOBIERNO REGIONAL DE MADRE DE DIOS ",
+  "FECHA DE  SUSCRIPCIÓN DEL PRIMER CONVENIO                   (CREACIÓN SAU)": "3/10/2022",
+  "PRÓRROGA": "AUTOMÁTICA POR 02 AÑOS",
+  "FECHA DE SUCRIPCIÓN DE CONVENIOS PARA SOSTENIBILIDAD DE SAU                                                                      (RENOVACIÓN SAU) ": "NO",
+  "VENCIMIENTO DEL CONVENIO": "3/10/2024",
+  "VENCIMIENTO CON PRÓRROGA AUTOMÁTICA": "3/10/2026",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf304"
+  },
+  "Nº": 7,
+  "REGIÓN": "Lima",
+  "PROVINCIA ": "Lima",
+  "DISTRITO": "Lima",
+  "SAU": "LIMA",
+  "CONTRAPARTE": "SAU LIMA SIN CONVENIO Y UTILIZA EL LOCAL DE INABIF",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL PROPIO DE LA MUNICIPALIDAD ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+},
+{
+  "_id": {
+    "$oid": "683a5ae4900642be62aaf305"
+  },
+  "Nº": 8,
+  "REGIÓN": "Puno",
+  "PROVINCIA ": "Puno",
+  "DISTRITO": "Puno",
+  "SAU": "PUNO",
+  "CONTRAPARTE": "SAU PUNO SIN CONVENIO Y UTILIZA UN LOCAL ALQUILADO ",
+  "ESTADO SITUACIONAL": "VIGENTE",
+  "TIPO DE INMUEBLE ": "LOCAL ALQUILADO POR EL PROGRAMA AURORA ",
+  "SITUACIÓN DE GESTIÓN/NRO": {
+    " DE OFICIO": "En funcionamiento"
+  }
+}]
