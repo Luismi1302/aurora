@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle;
-import 'dart:convert';
+import '../../services/mongodb_service.dart';
 import 'flujograma_screen.dart';
 
 class MatrizCompromisosScreen extends StatefulWidget {
@@ -13,14 +12,16 @@ class MatrizCompromisosScreen extends StatefulWidget {
 class _MatrizCompromisosScreenState extends State<MatrizCompromisosScreen> {
   List<Map<String, dynamic>> allData = [];
   String? selectedTipo;
+  bool isLoading = true;
 
-  final Map<String, String> archivos = {
-    'CEM': 'assets/Convenios.Convenios_CEM.json',
-    'Descentralizados': 'assets/Convenios.Convenios_Descentralizados.json',
-    'SAU': 'assets/Convenios.Convenio_SAU.json',
-    'SAR': 'assets/Convenios.Convenio_SAR.json',
-    'HRT': 'assets/Convenios.Convenio_HRT.json',
-    'CAI': 'assets/Convenios.Convenio_CAI.json',
+  // Asociación de tipos con nombres de colecciones en MongoDB
+  final Map<String, String> colecciones = {
+    'CEM': 'Convenios CEM',
+    'Descentralizados': 'Convenios Descentralizados',
+    'SAU': 'Convenio SAU',
+    'SAR': 'Convenio SAR',
+    'HRT': 'Convenio HRT',
+    'CAI': 'Convenio CAI',
   };
 
   @override
@@ -30,11 +31,14 @@ class _MatrizCompromisosScreenState extends State<MatrizCompromisosScreen> {
   }
 
   Future<void> _loadAllData() async {
+    setState(() { isLoading = true; });
     List<Map<String, dynamic>> temp = [];
-    for (var entry in archivos.entries) {
-      final jsonString = await rootBundle.loadString(entry.value);
-      final List<dynamic> jsonList = json.decode(jsonString);
-      for (var item in jsonList) {
+    final mongo = MongoDBService();
+    for (var entry in colecciones.entries) {
+      final List<Map<String, dynamic>> docs = List<Map<String, dynamic>>.from(
+        await mongo.getCollection(entry.value)
+      );
+      for (var item in docs) {
         temp.add({
           'tipo': entry.key,
           'region': item['REGION'] ?? item['REGIÓN'] ?? '',
@@ -43,18 +47,19 @@ class _MatrizCompromisosScreenState extends State<MatrizCompromisosScreen> {
           'nombre': item['CEM'] ?? item['SAU'] ?? item['SAR'] ?? item['HRT'] ?? item['CAI'] ?? item['NOMBRE DEL SERVICIO'] ?? '',
           'estado': item['ESTADO'] ?? item['ESTADO SITUACIONAL'] ?? '',
           'contraparte': item['CONTRAPARTE'] ?? '',
-          'raw': item, // Guarda el registro original para pasarlo al flujograma
+          'raw': item,
         });
       }
     }
     setState(() {
       allData = temp;
+      isLoading = false;
     });
   }
 
   @override
   Widget build(BuildContext context) {
-    final tipos = archivos.keys.toList();
+    final tipos = colecciones.keys.toList();
     final filtered = selectedTipo == null
         ? allData
         : allData.where((e) => e['tipo'] == selectedTipo).toList();
@@ -64,7 +69,9 @@ class _MatrizCompromisosScreenState extends State<MatrizCompromisosScreen> {
         title: const Text('Matriz de Compromisos'),
         backgroundColor: Theme.of(context).primaryColor,
       ),
-      body: SingleChildScrollView(
+      body: isLoading
+          ? const Center(child: CircularProgressIndicator())
+          : SingleChildScrollView(
         child: Container(
           decoration: BoxDecoration(
             gradient: LinearGradient(
@@ -93,7 +100,7 @@ class _MatrizCompromisosScreenState extends State<MatrizCompromisosScreen> {
                       value: null,
                       child: Text('Todos'),
                     ),
-                    ...archivos.keys.map((tipo) => DropdownMenuItem(
+                    ...colecciones.keys.map((tipo) => DropdownMenuItem(
                       value: tipo,
                       child: Text(tipo),
                     )),

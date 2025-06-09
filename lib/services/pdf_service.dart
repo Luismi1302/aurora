@@ -20,7 +20,7 @@ class PdfService {
             children: [
               pw.Header(
                 level: 0,
-                child: pw.Text(title, style: pw.TextStyle(fontSize: 24)),
+                child: pw.Text(title, style: const pw.TextStyle(fontSize: 24)),
               ),
               pw.SizedBox(height: 20),
               pw.Table.fromTextArray(
@@ -35,7 +35,7 @@ class PdfService {
                   fontWeight: pw.FontWeight.bold,
                   color: PdfColors.white,
                 ),
-                headerDecoration: pw.BoxDecoration(
+                headerDecoration: const pw.BoxDecoration(
                   color: PdfColors.blue,
                 ),
                 cellHeight: 30,

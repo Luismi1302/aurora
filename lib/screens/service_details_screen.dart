@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dart:convert';
-import 'package:flutter/services.dart';
+import '../../services/mongodb_service.dart';
 
 class ServiceDetailsScreen extends StatefulWidget {
   final String serviceName;
@@ -23,6 +22,16 @@ class _ServiceDetailsScreenState extends State<ServiceDetailsScreen> {
   String? selectedEstado;
   bool isFilterExpanded = false;
 
+  // Asociación de nombres de servicio con colecciones de MongoDB
+  final Map<String, String> colecciones = {
+    'CEM': 'Convenios CEM',
+    'Descentralizados': 'Convenios Descentralizados',
+    'SAU': 'Convenio SAU',
+    'SAR': 'Convenio SAR',
+    'HRT': 'Convenio HRT',
+    'CAI': 'Convenio CAI',
+  };
+
   @override
   void initState() {
     super.initState();
@@ -30,23 +39,25 @@ class _ServiceDetailsScreenState extends State<ServiceDetailsScreen> {
   }
 
   Future<void> _loadRecords() async {
+    setState(() { _isLoading = true; });
     try {
-      final jsonString = await rootBundle.loadString('assets/${widget.jsonFile}');
-      final data = json.decode(jsonString);
+      final mongo = MongoDBService();
+      final collectionName = colecciones[widget.serviceName] ?? widget.serviceName;
+      final docs = await mongo.getCollection(collectionName);
       setState(() {
-        _records = data['convenios'] ?? [];
+        _records = docs;
         _isLoading = false;
       });
     } catch (e) {
       setState(() => _isLoading = false);
-      print('Error loading JSON: $e');
+      print('Error loading MongoDB data: $e');
     }
   }
 
   List<dynamic> _getFilteredData() {
     return _records.where((item) {
-      bool matchesRegion = selectedRegion == null || item['region']?.toString() == selectedRegion;
-      bool matchesEstado = selectedEstado == null || item['estado']?.toString() == selectedEstado;
+      bool matchesRegion = selectedRegion == null || item['REGION']?.toString() == selectedRegion || item['region']?.toString() == selectedRegion;
+      bool matchesEstado = selectedEstado == null || item['ESTADO']?.toString() == selectedEstado || item['estado']?.toString() == selectedEstado;
       return matchesRegion && matchesEstado;
     }).toList();
   }
@@ -54,8 +65,8 @@ class _ServiceDetailsScreenState extends State<ServiceDetailsScreen> {
   @override
   Widget build(BuildContext context) {
     final filteredData = _getFilteredData();
-    final regiones = _records.map((item) => item['region']?.toString() ?? '').toSet().toList()..sort();
-    final estados = _records.map((item) => item['estado']?.toString() ?? '').toSet().toList()..sort();
+    final regiones = _records.map((item) => item['REGION']?.toString() ?? item['region']?.toString() ?? '').toSet().toList()..sort();
+    final estados = _records.map((item) => item['ESTADO']?.toString() ?? item['estado']?.toString() ?? '').toSet().toList()..sort();
 
     return Scaffold(
       appBar: AppBar(
@@ -172,15 +183,15 @@ class _ServiceDetailsScreenState extends State<ServiceDetailsScreen> {
                           return Card(
                             margin: const EdgeInsets.only(bottom: 16),
                             child: ExpansionTile(
-                              title: Text(record['region'] ?? 'Sin región'),
-                              subtitle: Text(record['distrito'] ?? 'Sin distrito'),
+                              title: Text(record['REGION'] ?? record['region'] ?? 'Sin región'),
+                              subtitle: Text(record['DISTRITO'] ?? record['distrito'] ?? 'Sin distrito'),
                               children: [
                                 Padding(
                                   padding: const EdgeInsets.all(16),
                                   child: Column(
                                     crossAxisAlignment: CrossAxisAlignment.start,
                                     children: [
-                                      _buildDetailItem('Estado', record['estado']),
+                                      _buildDetailItem('Estado', record['ESTADO'] ?? record['estado']),
                                       _buildDetailItem('Fecha', record['fecha']),
                                       if (record['observaciones'] != null)
                                         _buildDetailItem('Observaciones', record['observaciones']),

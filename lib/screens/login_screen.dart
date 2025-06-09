@@ -63,7 +63,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Container(
-                    padding: EdgeInsets.all(20),
+                    padding: const EdgeInsets.all(20),
                     decoration: BoxDecoration(
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(20),
@@ -85,20 +85,20 @@ class _LoginScreenState extends State<LoginScreen> {
                             color: Theme.of(context).primaryColor,
                           ),
                         ),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         TextFormField(
                           controller: _usernameController,
-                          decoration: InputDecoration(
+                          decoration: const InputDecoration(
                             labelText: 'Usuario',
                             border: OutlineInputBorder(),
                           ),
                           validator: (value) =>
                               value?.isEmpty ?? true ? 'Ingrese su usuario' : null,
                         ),
-                        SizedBox(height: 16),
+                        const SizedBox(height: 16),
                         TextFormField(
                           controller: _passwordController,
-                          decoration: InputDecoration(
+                          decoration: const InputDecoration(
                             labelText: 'Contraseña',
                             border: OutlineInputBorder(),
                           ),
@@ -106,17 +106,17 @@ class _LoginScreenState extends State<LoginScreen> {
                           validator: (value) =>
                               value?.isEmpty ?? true ? 'Ingrese su contraseña' : null,
                         ),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         if (_errorMessage.isNotEmpty)
                           Text(
                             _errorMessage,
-                            style: TextStyle(color: Colors.red),
+                            style: const TextStyle(color: Colors.red),
                           ),
-                        SizedBox(height: 20),
+                        const SizedBox(height: 20),
                         ElevatedButton(
                           style: ElevatedButton.styleFrom(
                             backgroundColor: Theme.of(context).primaryColor,
-                            padding: EdgeInsets.symmetric(
+                            padding: const EdgeInsets.symmetric(
                               horizontal: 40,
                               vertical: 15,
                             ),
@@ -127,7 +127,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               _login();
                             }
                           },
-                          child: Text(
+                          child: const Text(
                             'Ingresar',
                             style: TextStyle(
                               color: Colors.white,

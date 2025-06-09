@@ -1,6 +1,4 @@
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle;
 import '../services/convenios_descentralizados_service.dart';
 import '../services/pdf_service.dart';
 
@@ -20,12 +18,12 @@ class _ConveniosDescentralizadosScreenState extends State<ConveniosDescentraliza
   @override
   void initState() {
     super.initState();
-    _loadJsonData();
+    _loadData();
   }
 
-  Future<void> _loadJsonData() async {
+  Future<void> _loadData() async {
     try {
-      final data = await _service.loadJsonData();
+      final data = await _service.loadData();
       setState(() {
         allData = data;
       });
@@ -230,7 +228,7 @@ class _ConveniosDescentralizadosScreenState extends State<ConveniosDescentraliza
           ),
         ),
         child: FutureBuilder(
-          future: _service.loadJsonData(),
+          future: _service.loadData(),
           builder: (context, snapshot) {
             if (snapshot.connectionState == ConnectionState.waiting) {
               return const Center(child: CircularProgressIndicator());

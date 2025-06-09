@@ -1,15 +1,16 @@
-import 'dart:convert';
-import 'package:flutter/services.dart';
+import 'package:mongo_dart/mongo_dart.dart';
+import 'mongodb_service.dart';
 
 class ConveniosDescentralizadosService {
-  static const String assetPath = 'assets/Convenios.Convenios_Descentralizados.json';
+  static const String collectionName = 'Convenios Descentralizados';
+  final MongoDBService _mongoService = MongoDBService();
   List<dynamic>? _cachedData;
 
-  Future<List<dynamic>> loadJsonData() async {
+  Future<List<dynamic>> loadData() async {
     try {
-      print('Intentando cargar datos...');
-      final String jsonString = await rootBundle.loadString(assetPath);
-      _cachedData = json.decode(jsonString);
+      print('Intentando cargar datos desde MongoDB...');
+      final data = await _mongoService.getCollection(collectionName);
+      _cachedData = data;
       print('Datos cargados exitosamente: ${_cachedData!.length} registros');
       return _cachedData!;
     } catch (e) {

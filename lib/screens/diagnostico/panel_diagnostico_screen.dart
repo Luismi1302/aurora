@@ -55,7 +55,7 @@ class _PanelDiagnosticoScreenState extends State<PanelDiagnosticoScreen> {
                 runSpacing: 8,
                 alignment: WrapAlignment.center,
                 children: conveniosPorTipo.entries.map((entry) {
-                  return Container(
+                  return SizedBox(
                     width: MediaQuery.of(context).size.width * 0.42,
                     child: Card(
                       // Usa el color del theme global
@@ -137,7 +137,7 @@ class _PanelDiagnosticoScreenState extends State<PanelDiagnosticoScreen> {
                     ),
                   ),
                   titlesData: FlTitlesData(
-                    leftTitles: AxisTitles(
+                    leftTitles: const AxisTitles(
                       sideTitles: SideTitles(showTitles: true, reservedSize: 28),
                     ),
                     bottomTitles: AxisTitles(
@@ -160,8 +160,8 @@ class _PanelDiagnosticoScreenState extends State<PanelDiagnosticoScreen> {
                         },
                       ),
                     ),
-                    rightTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
-                    topTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
+                    rightTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
+                    topTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
                   ),
                   borderData: FlBorderData(show: false),
                   barGroups: conveniosPorRegion.entries
@@ -222,7 +222,7 @@ class _PanelDiagnosticoScreenState extends State<PanelDiagnosticoScreen> {
                     ),
                   ),
                   titlesData: FlTitlesData(
-                    leftTitles: AxisTitles(
+                    leftTitles: const AxisTitles(
                       sideTitles: SideTitles(showTitles: true, reservedSize: 28),
                     ),
                     bottomTitles: AxisTitles(
@@ -245,8 +245,8 @@ class _PanelDiagnosticoScreenState extends State<PanelDiagnosticoScreen> {
                         },
                       ),
                     ),
-                    rightTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
-                    topTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
+                    rightTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
+                    topTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
                   ),
                   borderData: FlBorderData(show: false),
                   barGroups: estadoConvenios.entries

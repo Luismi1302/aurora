@@ -79,14 +79,14 @@ class GestionIncumplomientosScreen extends StatelessWidget {
                     )),
                     DataCell(
                       notificacion
-                          ? Row(
+                          ? const Row(
                               children: [
                                 Icon(Icons.warning, color: Colors.orange, size: 20),
                                 SizedBox(width: 4),
                                 Text('Revisar', style: TextStyle(color: Colors.orange)),
                               ],
                             )
-                          : SizedBox.shrink(),
+                          : const SizedBox.shrink(),
                     ),
                   ],
                 );

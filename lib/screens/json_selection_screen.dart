@@ -27,7 +27,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.assignment,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ConveniosDescentralizadosScreen()),
+              MaterialPageRoute(builder: (context) => const ConveniosDescentralizadosScreen()),
             ),
           ),
           _buildConvenioCard(
@@ -37,7 +37,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.business,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ConveniosCemScreen()),
+              MaterialPageRoute(builder: (context) => const ConveniosCemScreen()),
             ),
           ),
           _buildConvenioCard(
@@ -47,7 +47,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.local_hospital,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ConveniosSauScreen()),
+              MaterialPageRoute(builder: (context) => const ConveniosSauScreen()),
             ),
           ),
           _buildConvenioCard(
@@ -57,7 +57,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.healing,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ConveniosSarScreen()),
+              MaterialPageRoute(builder: (context) => const ConveniosSarScreen()),
             ),
           ),
           _buildConvenioCard(
@@ -67,7 +67,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.home_work,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ConveniosHrtScreen()),
+              MaterialPageRoute(builder: (context) => const ConveniosHrtScreen()),
             ),
           ),
           _buildConvenioCard(
@@ -77,7 +77,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.child_care,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ConveniosCaiScreen()),
+              MaterialPageRoute(builder: (context) => const ConveniosCaiScreen()),
             ),
           ),
           _buildConvenioCard(
@@ -87,7 +87,7 @@ class JsonSelectionScreen extends StatelessWidget {
             Icons.traffic,
             () => Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => SemaforizacionScreen()),
+              MaterialPageRoute(builder: (context) => const SemaforizacionScreen()),
             ),
           ),
         ],

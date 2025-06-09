@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle;
-import 'dart:convert';
+import '../../services/mongodb_service.dart';
 
 class RegistroFactoresScreen extends StatefulWidget {
   const RegistroFactoresScreen({Key? key}) : super(key: key);
@@ -13,6 +12,16 @@ class _RegistroFactoresScreenState extends State<RegistroFactoresScreen> {
   List<dynamic> data = [];
   final Map<int, List<String>> factoresPorRegistro = {};
   final Map<int, TextEditingController> controllers = {};
+  bool isLoading = true;
+
+  final Map<String, String> colecciones = {
+    'CEM': 'Convenios CEM',
+    'Descentralizados': 'Convenios Descentralizados',
+    'SAU': 'Convenio SAU',
+    'SAR': 'Convenio SAR',
+    'HRT': 'Convenio HRT',
+    'CAI': 'Convenio CAI',
+  };
 
   @override
   void initState() {
@@ -21,9 +30,17 @@ class _RegistroFactoresScreenState extends State<RegistroFactoresScreen> {
   }
 
   Future<void> _loadData() async {
-    final jsonString = await rootBundle.loadString('assets/Convenios.Semaforizacion.json');
+    setState(() { isLoading = true; });
+    final mongo = MongoDBService();
+    final docs = await mongo.getCollection('Semaforizacion');
+    print('Documentos traídos de MongoDB: ${docs.length}');
+    if (docs.isNotEmpty) {
+      print('Ejemplo de documento:');
+      print(docs.first);
+    }
     setState(() {
-      data = json.decode(jsonString);
+      data = docs;
+      isLoading = false;
     });
   }
 
@@ -36,6 +53,22 @@ class _RegistroFactoresScreenState extends State<RegistroFactoresScreen> {
         controller.clear();
       });
     }
+  }
+
+  Color _getCardColor(Map<String, dynamic> item) {
+    // Contar la cantidad de respuestas 'SI' y 'NO' en los campos tipo String
+    int siCount = 0;
+    int noCount = 0;
+    item.forEach((key, value) {
+      if (value is String) {
+        if (value.trim().toUpperCase() == 'SI') siCount++;
+        if (value.trim().toUpperCase() == 'NO') noCount++;
+      }
+    });
+    // Lógica de color: verde si hay más 'SI', rojo si hay más 'NO', amarillo si igual
+    if (siCount > noCount) return Colors.green[100]!;
+    if (noCount > siCount) return Colors.red[100]!;
+    return Colors.yellow[100]!;
   }
 
   @override
@@ -53,7 +86,11 @@ class _RegistroFactoresScreenState extends State<RegistroFactoresScreen> {
         title: const Text('Registro de Factores'),
         backgroundColor: Theme.of(context).primaryColor,
       ),
-      body: Container(
+      body: isLoading
+          ? const Center(child: CircularProgressIndicator())
+          : data.isEmpty
+            ? const Center(child: Text('No hay datos disponibles en la colección Semaforizacion.'))
+            : Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter,
@@ -68,6 +105,7 @@ class _RegistroFactoresScreenState extends State<RegistroFactoresScreen> {
             controllers.putIfAbsent(index, () => TextEditingController());
             final factores = factoresPorRegistro[index] ?? [];
             return Card(
+              color: _getCardColor(item),
               margin: const EdgeInsets.symmetric(vertical: 8, horizontal: 12),
               child: Padding(
                 padding: const EdgeInsets.all(12),
@@ -96,12 +134,12 @@ class _RegistroFactoresScreenState extends State<RegistroFactoresScreen> {
                         const SizedBox(width: 8),
                         ElevatedButton(
                           onPressed: () => _addFactor(index),
-                          child: const Text('Agregar'),
                           style: ElevatedButton.styleFrom(
                             backgroundColor: Colors.white,
-                            foregroundColor: Color(0xFF7D5492),
+                            foregroundColor: const Color(0xFF7D5492),
                             side: const BorderSide(color: Color(0xFF7D5492)),
                           ),
+                          child: const Text('Agregar'),
                         ),
                       ],
                     ),

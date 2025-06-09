@@ -45,11 +45,11 @@ class DashboardService {
         regiones[region] = (regiones[region] ?? 0) + 1;
       }
     }
-    data.values.forEach((dataset) {
+    for (var dataset in data.values) {
       if (dataset is List) {
         processData(dataset);
       }
-    });
+    }
     return regiones;
   }
 
@@ -61,11 +61,11 @@ class DashboardService {
         estados[estado] = (estados[estado] ?? 0) + 1;
       }
     }
-    data.values.forEach((dataset) {
+    for (var dataset in data.values) {
       if (dataset is List) {
         processData(dataset);
       }
-    });
+    }
     return estados;
   }
 }

@@ -221,7 +221,7 @@ class _ConveniosCemScreenState extends State<ConveniosCemScreen> {
                       borderSide: BorderSide(color: Theme.of(context).primaryColor),
                     ),
                   ),
-                  onChanged: (value) => item['AÑO'] = int.tryParse(value) ?? null,
+                  onChanged: (value) => item['AÑO'] = int.tryParse(value),
                 ),
                 TextFormField(
                   initialValue: item['FECHA DE SUSCRIPCION'] ?? '',

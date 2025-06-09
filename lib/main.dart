@@ -1,8 +1,27 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:aurora/screens/login_screen.dart';
+import 'package:aurora/services/mongodb_service.dart';
+import 'package:aurora/services/migration_service.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  
+  // Inicializar MongoDB y migrar datos si es necesario
+  final prefs = await SharedPreferences.getInstance();
+  final isFirstRun = prefs.getBool('is_first_run') ?? true;
+  
+  if (isFirstRun) {
+    try {
+      final migrationService = MigrationService();
+      await migrationService.migrateData();
+      await prefs.setBool('is_first_run', false);
+    } catch (e) {
+      print('Error durante la migración inicial: $e');
+    }
+  }
+
   runApp(const MyApp());
 }
 

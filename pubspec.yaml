@@ -40,6 +40,8 @@ dependencies:
   pdf: ^3.10.7
   printing: ^5.11.1
   open_file: ^3.3.2
+  mongo_dart: ^0.9.1
+  mongo_dart_query: 4.0.5
 
 dev_dependencies:
   flutter_test:
@@ -61,13 +63,6 @@ flutter:
 
   assets:
     - assets/Logo.png
-    - assets/Convenios.Semaforizacion.json
-    - assets/Convenios.Convenios_Descentralizados.json
-    - assets/Convenios.Convenios_CEM.json
-    - assets/Convenios.Convenio_SAU.json
-    - assets/Convenios.Convenio_SAR.json
-    - assets/Convenios.Convenio_HRT.json
-    - assets/Convenios.Convenio_CAI.json
     - assets/users.json
 
 
